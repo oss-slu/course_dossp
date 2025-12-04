@@ -1,0 +1,280 @@
+modules:
+  - name: Welcome
+    items:
+      - name: Syllabus
+        type: file
+        file: syllabus.pdf
+      - name: Access Checklist
+        type: content
+        due_date: '' # 2024-09-01T23:59:00Z
+        content: access_checklist.md
+      - name: Required Readings
+        type: link
+        link: required_readings
+      - name: Readings Schedule 
+        type: link
+        link: readings_schedule.pdf
+      - name: Checkpoint Schedule
+        type: link
+        link: checkpoint_schedule
+      - name: Demonstrate Professional Leadership
+        type: assignment
+        due_date: '' # 2024-11-06T23:59:00Z
+        assignment: demonstrate_professional_leadership
+  - name: Iteration Start
+    items:
+      - name: Product Abstracts
+        type: link
+        link: product_abstracts
+      - name: Iteration Starters  - Checkpoint
+        type: assignment
+        due_date: '' # 2024-09-05T23:59:00Z
+        assignment: iteration_starters_checkpoint
+      - name: BLA3DE Presentation
+        type: link
+        link: BLA3DE_{ session }.pptx
+      - name: BLA3DE
+        type: file
+        file: BLA3DE.pdf
+      - name: Scheduling 1:1 Meetings
+        type: link
+        due_date: '' # 2024-09-05T23:59:00Z
+        link: scheduling_1on1_meetings
+  - name: Additional Resources
+    items:
+      - name: Handbooks & Guides
+        type: label
+      - name: Tech Lead Handbook
+        type: link
+        link: https://... # link to tech lead handbook
+      - name: Developer Handbook
+        type: link
+        link: https://... # link to developer handbook
+      - name: BOLT Handbook
+        type: link
+        link: bolt_handbook
+      - name: Supplemental Materials
+        type: label
+      - name: Opening Skills & Solutions - One Pager
+        type: file
+        file: OpeningSkillsSolutions-OnePager.pdf
+      - name: Conference Travel Stipend
+        type: link
+        link: conference_stipend_info
+      - name: Related Materials
+        type: link
+        link: related_materials
+      - name: Ideal Team Player Model & Summary
+        type: file
+        file: ideal_team_player_model_summary.pdf
+      - name: Ideal Team Player Self Assessment
+        type: file
+        file: ideal_team_player_assessment.pdf
+      - name: Optional Resources
+        type: label
+      - name: Recommendations for Further Reading
+        type: link
+        link: further_reading_recommendations
+
+  - name: Sprint Schedules
+    items:
+      - name: Sprint Dates Overview
+        type: link
+        link: sprint_dates_overview
+      - name: Sprint Structure & Expectations
+        type: link
+        link: sprint_structure_expectations
+      - name: { sprint_0_dates }
+        type: label
+        description: >
+          Sprint 0 includes the BLA3DE activity and developer onboarding. It focuses on team formation, project setup, and initial planning to prepare for development work in subsequent sprints.
+      - name: { sprint_1_dates }
+        type: label
+      - name: { weekly_video_1_title }
+        type: link
+        link: { weekly_video_1_link }
+      - name: { weekly_video_2_title }
+        type: link
+        link: { weekly_video_2_link }
+      - name: { sprint_2_dates }
+        type: label
+      - name: { weekly_video_3_title }
+        type: link
+        link: { weekly_video_3_link }
+      - name: { weekly_video_4_title }
+        type: link
+        link: { weekly_video_4_link }
+      - name: Reflection & Feedback
+        type: label
+      - name: Sprint Retrospectives
+        type: label
+      - name: Initial Performance Evaluation
+        type: assignment
+        due_date: '' # 2024-10-13T23:59:00Z
+        assignment: initial_performance_evaluation
+      - name: Client Demo & Feedback 1
+        type: quiz
+        due_date: '' # 2024-10-13T23:59:00Z
+        quiz: client_demo_feedback_1
+      - name: { sprint_3_dates }
+        type: label
+      - name: { weekly_video_5_title }
+        type: link
+        link: { weekly_video_5_link }
+      - name: { weekly_video_6_title }
+        type: link
+        link: { weekly_video_6_link }
+      - name: { sprint_4_dates }
+        type: label
+      - name: { weekly_video_7_title }
+        type: link
+        link: { weekly_video_7_link }
+      - name: { weekly_video_8_title }
+        type: link
+        link: { weekly_video_8_link }
+      - name: Sprint Retrospectives
+        type: label
+      - name: Second Performance Evaluation
+        type: assignment
+        due_date: '' # 2024-10-13T23:59:00Z
+        assignment: second_performance_evaluation
+      - name: Client Demo & Feedback 2
+        type: quiz
+        due_date: '' # 2024-10-13T23:59:00Z
+        quiz: client_demo_feedback_2
+      - name: { sprint_5_dates }
+        type: label
+      - name: { weekly_video_9_title }
+        type: link
+        link: { weekly_video_9_link }
+      - name: { weekly_video_10_title }
+        type: link
+        link: { weekly_video_10_link }
+      - name: { sprint_6_dates }
+        type: label
+      - name: { weekly_video_11_title }
+        type: link
+        link: { weekly_video_11_link }
+      - name: { weekly_video_12_title }
+        type: link
+        link: { weekly_video_12_link }
+      - name: Launch & Reflection
+        type: label
+
+  - name: Checkpoints
+    items:
+      - name: Checkpoint Resources
+        type: label
+      - name: Checkpoint Overview
+        type: link
+        link: checkpoint_overview
+      - name: Checkpoint Schedule
+        type: link
+        link: checkpoint_schedule
+      - name: Checkpoint Guidelines
+        type: link
+        link: checkpoint_guidelines
+      - name: Checkpoing Due Dates Are Recommendations, Not Hard Deadlines
+        type: label
+        description: >
+          Checkpoint due dates are recommendations to help Tech Leads stay on track.
+          Actual submissions may vary based on team agreements and project needs.
+      - name: Checkpoints
+        type: label
+      - name: Checkpoint - Team Working Agreement
+        type: assignment
+        due_date: '' # 2024-09-08T23:59:00
+        assignment: checkpoint_team_working_agreement
+      - name: Checkpoint - Maintainer Code Review
+        type: assignment
+        due_date: '' # 2024-09-15T23:59:00Z
+        assignment: code_review
+      - name: Checkpoint - Team Outing
+        type: assignment
+        due_date: '' # 2024-09-22T23:59:00Z
+        assignment: checkpoint_team_outing
+      - name: Checkpoint - Community Building Activity
+        type: assignment
+        due_date: '' # 2024-09-29T23:59:00Z
+        assignment: community_building_activity
+      - name: Checkpoint - Retrospective 
+        type: assignment
+        due_date: '' # 2024-10-06T23:59:00Z
+        assignment: checkpoint_retrospective
+      - name: Checkpoint - Team Metrics Report
+        type: assignment
+        due_date: '' # 2024-10-20T23:59:00Z
+        assignment: checkpoint_team_metrics_report
+      - name: Checkpoint - User-Focused Designs
+        type: assignment
+        due_date: '' # 2024-10-27T23:59:00Z
+        assignment: user_focused_design
+      - name: Checkpoint - System Designs
+        type: assignment
+        due_date: '' # 2024-11-03T23:59:00Z
+        assignment: checkpoint_system_designs
+      - name: Checkpoint - Product Strategy Draft
+        type: assignment
+        due_date: '' # 2024-11-08T23:59:00Z
+        assignment: checkpoint_product_strategy_draft
+      - name: 'Checkpoint - Team Metrics Report #2'
+        type: assignment
+        due_date: '' # 2024-10-25T23:59:00Z
+        assignment: checkpoint_team_metrics_report_2
+      - name: Checkpoint - Threat Model
+        type: assignment
+        due_date: '' # 2024-11-03T23:59:00Z
+        assignment: checkpoint_threat_model
+      - name: 'Checkpoint - Team Metrics Report #3'
+        type: assignment
+        due_date: '' # 2024-11-06T23:59:00Z
+        assignment: checkpoint_team_metrics_report_3
+      - name: Checkpoint - Backlog Audit
+        type: assignment
+        due_date: '' # 2024-11-08T23:59:00Z
+        assignment: checkpoint_backlog_audit
+
+  - name: Launch & Reflection
+    items:
+      - name: { launch_dates }
+        type: label
+      - name: Launch Video
+        type: link
+        link: launch_video
+      - name: Launch Preparation Checklist
+        type: file
+        file: launch_preparation_checklist.pdf
+
+      - name: Deliverables
+        type: label
+      - name: Team Presentation
+        type: assignment
+        due_date: '' # 2024-11-08T23:59:00Z
+        assignment: final_presentation
+      - name: Working Software Submission
+        type: assignment
+        due_date: '' # 2024-11-08T23:59:00Z
+        assignment: final_project_submission
+      - name: Product Strategy Final Document
+        type: assignment
+        due_date: '' # 2024-11-08T23:59:00Z
+        assignment: final_product_strategy_document
+      - name: Community Strategy Document
+        type: assignment
+        due_date: '' # 2024-11-08T23:59:00Z
+        assignment: final_community_strategy_document
+      - name: Demonstrate Professional Leadership
+        type: assignment
+        due_date: '' # 2024-11-06T23:59:00Z
+        assignment: demonstrate_professional_leadership
+
+      - name: Reflections & Evaluations
+        type: label
+      - name: Performance Evaluation - Final Review
+        type: assignment
+        due_date: '' # 2024-11-08T23:59:00Z
+        assignment: final_performance_evaluation
+      - name: Course Reflection Survey
+        type: link
+        due_date: '' # 2024-11-10T23:59:00Z
+        link: course_reflection_survey

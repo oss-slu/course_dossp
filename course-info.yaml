@@ -1,0 +1,201 @@
+# Course Information Template
+# This file contains the configuration for spinning up a new course instance
+# Fields marked as 'required' must be filled in before creating a new course
+
+course:
+  # required - Course number (e.g., CSCI-5930)
+  course_number: ""
+
+  # required - Section number (e.g., 02)
+  section: ""
+
+  # required - Semester code (e.g., 262 for Spring 2026)
+  semester: ""
+
+  # required - Course Reference Number
+  crn: ""
+
+  # required - Academic year (e.g., 2025-2026)
+  academic_year: ""
+
+  # required - Full course title
+  title: "Developing Open Source Software Products"
+
+  # required - Course start date (YYYY-MM-DD)
+  start_date: ""
+
+  # required - Course end date (YYYY-MM-DD)
+  end_date: ""
+
+  # Instructor information
+  instructor:
+    # required
+    name: ""
+    # required
+    email: ""
+    # optional - Office hours link (e.g., Calendly)
+    office_hours_link: ""
+
+# Canvas Configuration
+canvas:
+  # required - Canvas instance URL (e.g., https://yourschool.instructure.com)
+  instance_url: ""
+
+  # required - Canvas course ID (numeric ID from Canvas URL)
+  course_id: ""
+
+  # required - Set to true to publish course modules upon creation
+  publish_on_create: false
+
+  # Account ID for creating new courses (usually institution-specific)
+  account_id: ""
+
+# GitHub Configuration
+github:
+  # required - Organization where course repo will be created
+  organization: ""
+
+  # required - Repository name pattern (will be combined with course info)
+  repo_name_template: "dossp-{semester}-{section}"
+
+  # Create private repository for course materials
+  private_repo: true
+
+  # GitHub Project configuration
+  project:
+    # required - Create a GitHub Project for tracking course tasks
+    create_project: true
+
+    # Project name template
+    project_name_template: "DOSSP {semester} Section {section}"
+
+    # Labels to create for issues
+    labels:
+      - name: "reading"
+        color: "0075ca"
+        description: "Required reading for the course"
+      - name: "discussion"
+        color: "7057ff"
+        description: "Discussion topic"
+      - name: "instructor-deliverable"
+        color: "d93f0b"
+        description: "Instructor deliverable"
+      - name: "student-assignment"
+        color: "008672"
+        description: "Student assignment"
+      - name: "class-activity"
+        color: "fbca04"
+        description: "In-class activity"
+
+# Slack Configuration
+slack:
+  # required - Set to true to create Slack channels
+  create_channels: false
+
+  # Workspace ID
+  workspace_id: ""
+
+  # Channel naming pattern
+  channel_prefix: "dossp"
+
+  # Channels to create
+  channels:
+    - name: "{prefix}-{semester}"
+      description: "Course Channel"
+      is_private: true
+
+# Course Schedule Configuration
+course_schedule:
+  # required - Number of sprints in the course
+  total_sprints: 6
+  key_dates:
+    # required - Add key dates for the course
+    bla3de: ""  # YYYY-MM-DD
+    holidays_and_breaks: 
+      - name: "Holiday/Break Name"
+        start_date: ""  # YYYY-MM-DD
+        end_date: ""    # YYYY-MM-DD
+    initial_evaluation: ""  # YYYY-MM-DD
+    second_evaluation: ""   # YYYY-MM-DD
+    final_evaluation: ""    # YYYY-MM-DD
+    final_exam_date_time: ""  # YYYY-MM-DD HH:MM
+
+# Sprint Configuration
+sprints:
+  - number: 0
+    start_date: ""  # YYYY-MM-DD
+    end_date: ""    # YYYY-MM-DD
+
+  - number: 1
+    start_date: ""  # YYYY-MM-DD
+    end_date: ""    # YYYY-MM-DD
+    weekly_video_1:
+      title: ""
+      link: ""
+    weekly_video_2:
+      title: ""
+      link: ""
+
+  - number: 2
+    start_date: ""
+    end_date: ""
+    weekly_video_3:
+      title: ""
+      link: ""
+    weekly_video_4:
+      title: ""
+      link: ""
+
+  - number: 3
+    start_date: ""
+    end_date: ""
+    weekly_video_5:
+      title: ""
+      link: ""
+    weekly_video_6:
+      title: ""
+      link: ""
+
+  - number: 4
+    start_date: ""
+    end_date: ""
+    weekly_video_7:
+      title: ""
+      link: ""
+    weekly_video_8:
+      title: ""
+      link: ""
+
+  - number: 5
+    start_date: ""
+    end_date: ""
+    weekly_video_9:
+      title: ""
+      link: ""
+    weekly_video_10:
+      title: ""
+      link: ""
+
+  - number: 6
+    start_date: ""
+    end_date: ""
+    weekly_video_11:
+      title: ""
+      link: ""
+    weekly_video_12:
+      title: ""
+      link: ""
+
+# Launch Configuration
+launch:
+  dates: ""  # e.g., "November 4-8, 2024"
+  video_link: ""
+
+# Product Teams Configuration
+product_teams: '' # Path to YAML file with product team definitions
+
+# API Keys and Tokens (DO NOT COMMIT - use environment variables)
+# Set these as environment variables:
+# - CANVAS_API_TOKEN
+# - GITHUB_TOKEN
+# - SLACK_TOKEN
