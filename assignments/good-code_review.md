@@ -6,6 +6,7 @@ submission_types:
 - online_url
 allowed_extensions: []
 published: true
+assignment_group: "Good Practices"
 assignment_group_id: 149308
 grading_type: points
 canvas_id: 645633

@@ -1,27 +1,26 @@
 ---
-title: 'Team Metrics Report #3'
+title: Team Metrics Report
 points_possible: 1.0
-due_at: '2025-12-03T05:59:59Z'
+due_at: '2025-10-11T04:59:59Z'
 submission_types:
 - online_upload
 allowed_extensions:
 - pdf
 published: true
+assignment_group: "Good Practices"
 assignment_group_id: 149308
 grading_type: points
-canvas_id: 654962
+canvas_id: 645636
 ---
 _*]:min-w-0 standard-markdown">
 
 ## Tech Lead Metrics Report
 
-**Due:** December 2
-**Sprint:** 6
+**Due:** October 10
+**Sprint:** 2
 **Focus:** Team Performance & Progress Tracking
 
 ### Overview
-
-## INCLUDE THIS FINAL TEAM METRICS REPORT AS PART OF YOUR PRODUCT STRATEGY
 
 Effective technical leadership requires understanding how your team is performing and where improvements are needed. This checkpoint requires you to establish metrics tracking for your team and produce a report analyzing your progress. You'll produce these reports every two sprints throughout the semester.
 

@@ -6,6 +6,7 @@ submission_types:
 - none
 allowed_extensions: []
 published: true
+assignment_group: "Reflections & Evaluations"
 assignment_group_id: 149309
 grading_type: points
 canvas_id: 641083

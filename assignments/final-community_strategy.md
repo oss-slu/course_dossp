@@ -7,6 +7,7 @@ submission_types:
 allowed_extensions:
 - pdf
 published: true
+assignment_group: "Final Deliverables"
 assignment_group_id: 149309
 grading_type: points
 canvas_id: 660999

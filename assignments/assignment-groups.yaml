@@ -1,0 +1,16 @@
+assignment_groups:
+  - name: Checkpoints
+    id: __placeholder__
+    weight: 25
+  - name: Good Practices
+    id: __placeholder__
+    weight: 30
+  - name: Reflections & Evaluations
+    id: __placeholder__
+    weight: 5
+  - name: Final Deliverables
+    id: __placeholder__
+    weight: 30
+  - name: Demonstrate Professional Leadership
+    id: __placeholder__
+    weight: 10

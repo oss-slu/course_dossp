@@ -8,6 +8,7 @@ submission_types:
 allowed_extensions:
 - pdf
 published: true
+assignment_group: "Good Practices"
 assignment_group_id: 149308
 grading_type: points
 canvas_id: 645635

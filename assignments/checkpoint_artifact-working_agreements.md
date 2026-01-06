@@ -1,24 +1,30 @@
 ---
-title: Working Agreements
+title: Checkpoint 1 - Working Agreements
 points_possible: 1.0
 due_at: '2025-09-11T04:59:59Z'
 submission_types:
-- online_text_entry
 - online_upload
 allowed_extensions:
 - pdf
+- md
+- tex
 published: true
+assignment_group: "Checkpoints"
 assignment_group_id: 149308
 grading_type: points
 canvas_id: 641082
 ---
-**Due:** September 15
-**Sprint:** 1
-**Focus:** Teams
+**Points Possible:** 1.0
+
+**Target Sprint:** 1
+
+**Focus:** Teams Dynamics
 
 ## Overview
 
 Working agreements establish the foundation for how your team will collaborate throughout the project. These agreements should address both technical practices and team processes to ensure everyone understands expectations and workflows.
+
+**This document is crucial for defining initial team scope and is expected to be delivered in Sprint 1 to ensure a clear path forward.**
 
 ## Requirements
 
@@ -26,7 +32,9 @@ Working agreements establish the foundation for how your team will collaborate t
 - Input from the team is invited, and changes are discussed by the team.
 - The document has details about how the team will work together, and provides specific guidance on any areas where there are strong preferences or requirements.
 - The document can be updated in response to change, including the discovery of new information about the team itself. Each updated version should be submitted, including your initial draft.
-- The document has been signed (physically or digitally) by all team members.
+- **Project Objective 1:** The working agreement must set an ambitious but achievable project objective, due on or about the midterm mark (approximately the split between Sprint 3 and Sprint 4). Additional details are available in the Tech Lead handbook.
+- **Revision Mechanism:** The working agreement must include a mechanism for revision and set a specific date for a mandatory review meeting near the completion of the first project objective. During that meeting, a second project objective should be established.
+- The document has been signed (physically or digitally) by all team members. Simple digital signature mechanisms are available in popular free PDF editing tools, and Git commit logs can serve as verification of signoff on Markdown files.
 
 ## Recommendations
 
@@ -63,11 +71,17 @@ Create a comprehensive working agreements document that covers:
 
 ## Evaluation Criteria
 
-- Completeness: Addresses all essential aspects of team collaboration
-- Clarity: Specific and actionable rather than vague aspirations
-- Practicality: Realistic given team size, timeline, and project scope
-- Consensus: Clear evidence of team buy-in and commitment
+- **Completeness:** Addresses all essential aspects of team collaboration, including client involvement.
+- **Clarity and Scope:** Specific and actionable rather than vague aspirations. Defines a clear, ambitious first project objective and the mechanism/date for revision.
+- **Practicality:** Realistic given team size, timeline, and project scope.
+- **Consensus:** Clear evidence of team buy-in and commitment (signatures).
 
 ## Submission
 
 Submit your working agreements document along with a brief reflection (1-2 paragraphs) on your team's process for creating these agreements and any challenges encountered during the discussion.
+
+## Submission
+
+Submit your working agreements document (PDF, MD, or TeX). The submission file must include a brief reflection (1-2 paragraphs) on your team's process for creating these agreements and any challenges encountered during the discussion.
+
+Your kungfuchicken.com chats aren’t used to improve our models. Gemini can make mistakes, so double-check it. Your privacy & Gemini Opens in a new window

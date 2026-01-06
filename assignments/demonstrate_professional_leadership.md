@@ -6,6 +6,7 @@ submission_types:
 - online_url
 allowed_extensions: []
 published: true
+assignment_group: "Demonstrate Professional Leadership"
 assignment_group_id: 149307
 grading_type: points
 canvas_id: 641076

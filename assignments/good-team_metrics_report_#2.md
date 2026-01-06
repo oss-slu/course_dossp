@@ -1,22 +1,24 @@
 ---
-title: Team Metrics Report
+title: 'Team Metrics Report #2'
 points_possible: 1.0
-due_at: '2025-10-11T04:59:59Z'
+due_at: '2025-11-06T05:59:59Z'
+unlock_at: '2025-11-03T22:00:00Z'
 submission_types:
 - online_upload
 allowed_extensions:
 - pdf
 published: true
+assignment_group: "Good Practices"
 assignment_group_id: 149308
 grading_type: points
-canvas_id: 645636
+canvas_id: 654960
 ---
 _*]:min-w-0 standard-markdown">
 
 ## Tech Lead Metrics Report
 
-**Due:** October 10
-**Sprint:** 2
+**Due:** October 29
+**Sprint:** 4
 **Focus:** Team Performance & Progress Tracking
 
 ### Overview
