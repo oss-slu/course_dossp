@@ -1,5 +1,13 @@
 #!/usr/bin/env python3
 """
+DEPRECATED: This script has been superseded by MosTidy's `canvas extract` command.
+Run: mostidy canvas extract <course_id> -o <output_dir>
+See: https://github.com/oss-slu/MosTidy
+
+This file is preserved for historical reference only.
+
+---
+
 Canvas Content Downloader
 
 This script downloads existing content, assignments, and quizzes from a Canvas course

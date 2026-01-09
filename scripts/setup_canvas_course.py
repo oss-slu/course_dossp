@@ -1,5 +1,13 @@
 #!/usr/bin/env python3
 """
+DEPRECATED: This script has been superseded by MosTidy's `canvas insert` command.
+Run: mostidy canvas insert <template_dir> -c <course_id> --config <config.yaml>
+See: https://github.com/oss-slu/MosTidy
+
+This file is preserved for historical reference only.
+
+---
+
 Canvas Course Setup Script
 
 This script sets up a new Canvas course instance using templated materials.

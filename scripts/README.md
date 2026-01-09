@@ -1,5 +1,14 @@
 # Course Automation Scripts
 
+> **DEPRECATED**: The Canvas scripts (`download_canvas_content.py`, `setup_canvas_course.py`) have been superseded by MosTidy commands. This documentation is preserved for historical reference.
+>
+> | Python Script | MosTidy Command |
+> |---------------|-----------------|
+> | `download_canvas_content.py` | `mostidy canvas extract` |
+> | `setup_canvas_course.py` | `mostidy canvas insert` |
+>
+> See the [MosTidy Canvas Course Templates documentation](../../__program/MosTidy/docs/canvas-course-templates.md) for current usage.
+
 This directory contains automation scripts for managing the Developing Open Source Software Products course. These scripts interact with Canvas, GitHub, and Slack to streamline course setup and management.
 
 ## Overview
