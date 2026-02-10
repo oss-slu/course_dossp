@@ -121,8 +121,8 @@ course_schedule:
 sprints:
   - number: 0
     name: "Sprint Zero"
-    starts: "2026-01-12"
-    ends: "2026-01-26"
+    start_date: "2026-01-12"
+    end_date: "2026-01-26"
     # Team assignments and onboarding; MLK Day Jan 19
     weekly_video_1:
       title: ""
@@ -132,8 +132,8 @@ sprints:
     #   link: ""
 
   - number: 1
-    starts: "2026-01-26"
-    ends: "2026-02-09"
+    start_date: "2026-01-26"
+    end_date: "2026-02-09"
     # weekly_video_3:
     #   title: ""
     #   link: ""
@@ -142,8 +142,8 @@ sprints:
     #   link: ""
 
   - number: 2
-    starts: "2026-02-09"
-    ends: "2026-02-23"
+    start_date: "2026-02-09"
+    end_date: "2026-02-23"
     # Wellness Day Feb 11
     # weekly_video_5:
     #   title: ""
@@ -153,8 +153,8 @@ sprints:
     #   link: ""
 
   - number: 3
-    starts: "2026-02-23"
-    ends: "2026-03-09"
+    start_date: "2026-02-23"
+    end_date: "2026-03-09"
     # Mid-terms Mar 2-6; ends at Spring Break
     # weekly_video_7:
     #   title: ""
@@ -166,8 +166,8 @@ sprints:
   # Spring Break: Mar 9-13 (no sprint)
 
   - number: 4
-    starts: "2026-03-16"
-    ends: "2026-03-30"
+    start_date: "2026-03-16"
+    end_date: "2026-03-30"
     # First sprint after Spring Break
     # weekly_video_3:
     #   title: ""
@@ -177,8 +177,8 @@ sprints:
     #   link: ""
 
   - number: 5
-    starts: "2026-03-30"
-    ends: "2026-04-13"
+    start_date: "2026-03-30"
+    end_date: "2026-04-13"
     # Easter Break Apr 2-6 falls within
     # weekly_video_5:
     #   title: ""
@@ -188,8 +188,8 @@ sprints:
     #   link: ""
 
   - number: 6
-    starts: "2026-04-13"
-    ends: "2026-04-27"
+    start_date: "2026-04-13"
+    end_date: "2026-04-27"
     # weekly_video_7:
     #   title: ""
     #   link: ""
@@ -199,8 +199,8 @@ sprints:
 
   - number: 7
     name: "Launch"
-    starts: "2026-04-27"
-    ends: "2026-05-12"
+    start_date: "2026-04-27"
+    end_date: "2026-05-12"
     # Classes end May 4; Finals May 6-12
 
 iterations:
