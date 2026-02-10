@@ -1,18 +1,6 @@
 ---
 title: Strategy Draft
-points_possible: 1.0
-due_at: '2025-11-06T05:59:59Z'
-submission_types:
-- online_url
-- online_upload
-allowed_extensions:
-- pdf
-published: true
-assignment_group_id: 149308
-grading_type: points
-canvas_id: 657124
 ---
-**Due:** Nov 5
 **Focus:** Initial Strategy Development & Iteration
 
 ## Overview

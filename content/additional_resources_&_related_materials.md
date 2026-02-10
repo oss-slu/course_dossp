@@ -3,7 +3,6 @@ title: Additional Resources & Related Materials
 url: additional-resources-and-related-materials
 published: true
 front_page: false
-canvas_id: 800238
 ---
 Resources & Related Material
 

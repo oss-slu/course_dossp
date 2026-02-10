@@ -1,15 +1,13 @@
 ---
 title: Working Software
 points_possible: 1.0
-due_at: '2025-12-09T05:59:59Z'
+due_at: '2026-05-11T21:00:00Z'
 submission_types:
 - none
 allowed_extensions: []
 published: true
 assignment_group: "Final Deliverables"
-assignment_group_id: 149309
 grading_type: points
-canvas_id: 661001
 ---
 **Due:** End of Iteration (Sprint 7/Launch Sprint)
 **Focus:** Functional Software Delivery

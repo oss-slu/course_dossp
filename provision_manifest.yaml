@@ -1,0 +1,356 @@
+provisioned_at: 2026-01-28T20:13:09.195409+00:00
+dry_run: false
+course_id: 89519
+template_dir: /Users/shownde/code/slu/oss/__instruction/course_dossp
+repo_access:
+  repo: oss-slu/course_dossp
+  students_granted: 8
+  students_skipped: 0
+  branch_protection: false
+github_project:
+  title: DOSSP - 262
+  number: 77
+  id: PVT_kwDOBit-m84BMoDp
+  url: https://github.com/orgs/oss-slu/projects/77
+  org: oss-slu
+  issues:
+  - title: '[262] Welcome & Context Setting'
+    source: issues/00-product_team_pitches.md
+  - title: '[262] Website Updates'
+    source: issues/00-website-updates.md
+  - title: '[262] Welcome & Context Setting'
+    source: issues/00-welcome.md
+  - title: '[262] Day1 Pair Scheduling'
+    source: issues/01-day1-pair-scheduling.md
+  - title: '[262] [Coaching] Round 1 Checkpoint - Engagement Review'
+    source: issues/coaching-checkpoint-1-feb-23.md
+  - title: '[262] [Coaching] Round 2 Checkpoint - Engagement Review'
+    source: issues/coaching-checkpoint-2-mar-30.md
+  - title: '[262] [Coaching] Round 3 Checkpoint - Final Review'
+    source: issues/coaching-checkpoint-3-may-04.md
+  - title: '[262] [Discussion] Week 1 - Developing: Team Dynamics'
+    source: issues/discussion-week-01-developing.md
+  - title: '[262] [Discussion] Week 2 - Open Source: Community Management'
+    source: issues/discussion-week-02-open-source.md
+  - title: '[262] [Discussion] Week 3 - Software: Software Engineering'
+    source: issues/discussion-week-03-software.md
+  - title: '[262] [Discussion] Week 4 - Products: Product Management'
+    source: issues/discussion-week-04-products.md
+  - title: '[262] [Discussion] Week 5 - Developing: Team Dynamics'
+    source: issues/discussion-week-05-developing.md
+  - title: '[262] [Discussion] Week 6 - Open Source: Community Management'
+    source: issues/discussion-week-06-open-source.md
+  - title: '[262] [Discussion] Week 7 - Software: Software Engineering'
+    source: issues/discussion-week-07-software.md
+  - title: '[262] [Discussion] Week 8 - Products: Product Management'
+    source: issues/discussion-week-08-products.md
+  - title: '[262] [Discussion] Week 10 - Developing: Team Dynamics'
+    source: issues/discussion-week-10-developing.md
+  - title: '[262] [Discussion] Week 11 - Open Source: Community Management'
+    source: issues/discussion-week-11-open-source.md
+  - title: '[262] [Discussion] Week 12 - Software: Software Engineering'
+    source: issues/discussion-week-12-software.md
+  - title: '[262] [Discussion] Week 13 - Products: Product Management'
+    source: issues/discussion-week-13-products.md
+  - title: '[262] [Discussion] Week 14 - Developing: Team Dynamics'
+    source: issues/discussion-week-14-developing.md
+  - title: '[262] [Evaluation] Final Performance Evaluation'
+    source: issues/evaluation-final_performance_evaluation.md
+  - title: '[262] [Evaluation] Performance Evaluation 1'
+    source: issues/evaluation-performance_evaluation_1.md
+  - title: '[262] [Evaluation] Performance Evaluation 2'
+    source: issues/evaluation-performance_evaluation_2.md
+  - title: '[262] [Feedback] Stakeholder Check-in: End-of-Semester'
+    source: issues/feedback-stakeholder-end_of_semester.md
+  - title: '[262] [Feedback] Stakeholder Check-in: Mid-Semester'
+    source: issues/feedback-stakeholder-mid_semester.md
+    number: 139
+    item_id: PVTI_lADOBit-m84BMoDpzgkbcj4
+  - title: '[262] [Feedback] Stakeholder Check-in: Post-Demo 1'
+    source: issues/feedback-stakeholder-post_demo_1.md
+    number: 140
+    item_id: PVTI_lADOBit-m84BMoDpzgkbckE
+  - title: '[262] [Feedback] Stakeholder Check-in: Post-Demo 2'
+    source: issues/feedback-stakeholder-post_demo_2.md
+    number: 141
+    item_id: PVTI_lADOBit-m84BMoDpzgkbckQ
+  - title: '[262] [Feedback] Stakeholder Check-in: Pre-Demo 1 (Early Warning)'
+    source: issues/feedback-stakeholder-pre_demo_1.md
+    number: 142
+    item_id: PVTI_lADOBit-m84BMoDpzgkbckk
+  - title: '[262] [1:1] Week 1 - Tech Lead Meetings'
+    source: issues/one-on-one-week-01-jan-26.md
+    number: 143
+    item_id: PVTI_lADOBit-m84BMoDpzgkbck4
+  - title: '[262] [1:1] Week 2 - Tech Lead Meetings'
+    source: issues/one-on-one-week-02-feb-02.md
+    number: 144
+    item_id: PVTI_lADOBit-m84BMoDpzgkbclA
+  - title: '[262] [1:1] Week 3 - Tech Lead Meetings'
+    source: issues/one-on-one-week-03-feb-09.md
+    number: 145
+    item_id: PVTI_lADOBit-m84BMoDpzgkbclU
+  - title: '[262] [1:1] Week 4 - Tech Lead Meetings'
+    source: issues/one-on-one-week-04-feb-16.md
+    number: 146
+    item_id: PVTI_lADOBit-m84BMoDpzgkbclg
+  - title: '[262] [1:1] Week 5 - Tech Lead Meetings'
+    source: issues/one-on-one-week-05-feb-23.md
+    number: 147
+    item_id: PVTI_lADOBit-m84BMoDpzgkbcl0
+  - title: '[262] [1:1] Week 6 - Tech Lead Meetings'
+    source: issues/one-on-one-week-06-mar-02.md
+    number: 148
+    item_id: PVTI_lADOBit-m84BMoDpzgkbcmE
+  - title: '[262] [1:1] Week 7 - Tech Lead Meetings'
+    source: issues/one-on-one-week-07-mar-09.md
+    number: 149
+    item_id: PVTI_lADOBit-m84BMoDpzgkbcmU
+  - title: '[262] [1:1] Week 8 - Tech Lead Meetings'
+    source: issues/one-on-one-week-08-mar-16.md
+    number: 150
+    item_id: PVTI_lADOBit-m84BMoDpzgkbcmk
+  - title: '[262] [1:1] Week 10 - Tech Lead Meetings'
+    source: issues/one-on-one-week-10-mar-30.md
+    number: 151
+    item_id: PVTI_lADOBit-m84BMoDpzgkbcm0
+  - title: '[262] [1:1] Week 11 - Tech Lead Meetings'
+    source: issues/one-on-one-week-11-apr-06.md
+    number: 152
+    item_id: PVTI_lADOBit-m84BMoDpzgkbcm8
+  - title: '[262] [1:1] Week 12 - Tech Lead Meetings'
+    source: issues/one-on-one-week-12-apr-13.md
+    number: 153
+    item_id: PVTI_lADOBit-m84BMoDpzgkbcnU
+  - title: '[262] [1:1] Week 13 - Tech Lead Meetings'
+    source: issues/one-on-one-week-13-apr-20.md
+    number: 154
+    item_id: PVTI_lADOBit-m84BMoDpzgkbcng
+  - title: '[262] [1:1] Week 14 - Tech Lead Meetings'
+    source: issues/one-on-one-week-14-apr-27.md
+    number: 155
+    item_id: PVTI_lADOBit-m84BMoDpzgkbcnw
+  - title: '[262] [Reading] Week 1 - Developing: Building Thriving Communities'
+    source: issues/reading-week-01-developing.md
+    number: 156
+    item_id: PVTI_lADOBit-m84BMoDpzgkbcok
+  - title: '[262] [Reading] Week 2 - Open Source: Participating in Communities'
+    source: issues/reading-week-02-open-source.md
+    number: 157
+    item_id: PVTI_lADOBit-m84BMoDpzgkbcpU
+  - title: '[262] [Reading] Week 3 - Software: Being a Great Programmer'
+    source: issues/reading-week-03-software.md
+    number: 158
+    item_id: PVTI_lADOBit-m84BMoDpzgkbcp4
+  - title: '[262] [Reading] Week 4 - Products: Engineering for Software'
+    source: issues/reading-week-04-products.md
+    number: 159
+    item_id: PVTI_lADOBit-m84BMoDpzgkbcqg
+  - title: '[262] [Reading] Week 5 - Developing: Building a Culture of Impact'
+    source: issues/reading-week-05-developing.md
+    number: 160
+    item_id: PVTI_lADOBit-m84BMoDpzgkbcqw
+  - title: '[262] [Reading] Week 6 - Open Source: Building Leadership'
+    source: issues/reading-week-06-open-source.md
+    number: 161
+    item_id: PVTI_lADOBit-m84BMoDpzgkbcrA
+  - title: '[262] [Reading] Week 7 - Software: Self-Testing Code'
+    source: issues/reading-week-07-software.md
+    number: 162
+    item_id: PVTI_lADOBit-m84BMoDpzgkbcrg
+  - title: '[262] [Reading] Week 8 - Products: Software Architecture'
+    source: issues/reading-week-08-products.md
+  - title: '[262] [Reading] Week 10 - Developing: After Selfishness'
+    source: issues/reading-week-10-developing.md
+  - title: '[262] [Reading] Week 11 - Open Source: Cathedral and Bazaar'
+    source: issues/reading-week-11-open-source.md
+  - title: '[262] [Reading] Week 12 - Software: Threat Modeling'
+    source: issues/reading-week-12-software.md
+  - title: '[262] [Reading] Week 13 - Products: Bounded Contexts'
+    source: issues/reading-week-13-products.md
+  - title: '[262] [Reading] Week 14 - Developing: Healthy Open Source'
+    source: issues/reading-week-14-developing.md
+  - title: '[262] [Sprint Check] Week 1 - Jan 26'
+    source: issues/sprint-check-01-jan-26.md
+  - title: '[262] [Sprint Check] Week 2 - Feb 2'
+    source: issues/sprint-check-02-feb-02.md
+  - title: '[262] [Sprint Check] Week 3 - Feb 9'
+    source: issues/sprint-check-03-feb-09.md
+  - title: '[262] [Sprint Check] Week 4 - Feb 16'
+    source: issues/sprint-check-04-feb-16.md
+  - title: '[262] [Sprint Check] Week 5 - Feb 23'
+    source: issues/sprint-check-05-feb-23.md
+  - title: '[262] [Sprint Check] Week 6 - Mar 2'
+    source: issues/sprint-check-06-mar-02.md
+  - title: '[262] [Sprint Check] Week 7 - Mar 16'
+    source: issues/sprint-check-07-mar-16.md
+  - title: '[262] [Sprint Check] Week 8 - Mar 23'
+    source: issues/sprint-check-08-mar-23.md
+  - title: '[262] [Sprint Check] Week 9 - Mar 30'
+    source: issues/sprint-check-09-mar-30.md
+  - title: '[262] [Sprint Check] Week 10 - Apr 13'
+    source: issues/sprint-check-10-apr-13.md
+  - title: '[262] [Sprint Check] Week 11 - Apr 20'
+    source: issues/sprint-check-11-apr-20.md
+  - title: '[262] [Sprint Check] Week 12 - Apr 27'
+    source: issues/sprint-check-12-apr-27.md
+  - title: '[262] [Tech Lead] Checkpoint - Artifact Choice 1'
+    source: issues/tech-lead-checkpoint-artifact_choice_1.md
+  - title: '[262] [Tech Lead] Checkpoint - Artifact Choice 2'
+    source: issues/tech-lead-checkpoint-artifact_choice_2.md
+  - title: '[262] [Tech Lead] Checkpoint - Artifact Choice 3'
+    source: issues/tech-lead-checkpoint-artifact_choice_3.md
+  - title: '[262] [Tech Lead] Checkpoint - Artifact Choice 4'
+    source: issues/tech-lead-checkpoint-artifact_choice_4.md
+  - title: '[262] [Tech Lead] Checkpoint - Team Outing'
+    source: issues/tech-lead-checkpoint-team_outing.md
+  - title: '[262] [Tech Lead] Checkpoint - Team Working Agreement'
+    source: issues/tech-lead-checkpoint-working_agreements.md
+  - title: '[262] [Tech Lead] Client Demo & Feedback 1'
+    source: issues/tech-lead-client_demo_1.md
+  - title: '[262] [Tech Lead] Client Demo & Feedback 2'
+    source: issues/tech-lead-client_demo_2.md
+  - title: '[262] [Tech Lead] Demonstrate Professional Leadership'
+    source: issues/tech-lead-demonstrate_professional_leadership.md
+  - title: '[262] [Tech Lead] Final Community Strategy Document'
+    source: issues/tech-lead-final_community_strategy.md
+  - title: '[262] [Tech Lead] Final Team Presentation'
+    source: issues/tech-lead-final_presentation.md
+  - title: '[262] [Tech Lead] Final Product Strategy Document'
+    source: issues/tech-lead-final_product_strategy.md
+  - title: '[262] [Tech Lead] Final Working Software Submission'
+    source: issues/tech-lead-final_working_software.md
+    number: 163
+    item_id: PVTI_lADOBit-m84BMoDpzgkbcuM
+  - title: '[262] [Tech Lead] Iteration Starters'
+    source: issues/tech-lead-iteration_starters.md
+    number: 164
+    item_id: PVTI_lADOBit-m84BMoDpzgkbcuk
+  - title: '[262] [Tech Lead] Good Practice - Team Metrics Report 1'
+    source: issues/tech-lead-metrics_report_1.md
+    number: 165
+    item_id: PVTI_lADOBit-m84BMoDpzgkbcus
+  - title: '[262] [Tech Lead] Good Practice - Team Metrics Report 2'
+    source: issues/tech-lead-metrics_report_2.md
+    number: 166
+    item_id: PVTI_lADOBit-m84BMoDpzgkbcvU
+  - title: '[262] [Tech Lead] Good Practice - Team Metrics Report 3'
+    source: issues/tech-lead-metrics_report_3.md
+    number: 167
+    item_id: PVTI_lADOBit-m84BMoDpzgkbcvk
+  - title: '[262] [Tech Lead] Good Practice - Milestone 1'
+    source: issues/tech-lead-milestone_1.md
+    number: 168
+    item_id: PVTI_lADOBit-m84BMoDpzgkbcv4
+  - title: '[262] [Tech Lead] Good Practice - Milestone 2'
+    source: issues/tech-lead-milestone_2.md
+    number: 169
+    item_id: PVTI_lADOBit-m84BMoDpzgkbcwI
+  - title: '[262] [Tech Lead] Good Practice - Team OKRs'
+    source: issues/tech-lead-okr.md
+    number: 170
+    item_id: PVTI_lADOBit-m84BMoDpzgkbcwU
+  - title: '[262] [Tech Lead] Good Practice - Retrospective Facilitation'
+    source: issues/tech-lead-retrospective_facilitation.md
+    number: 171
+    item_id: PVTI_lADOBit-m84BMoDpzgkbcwk
+  - title: '[262] [Workshop] Week 1 - Jan 26'
+    source: issues/workshop-01-jan-26.md
+    number: 172
+    item_id: PVTI_lADOBit-m84BMoDpzgkbcxA
+  - title: '[262] [Workshop] Week 2 - Feb 2'
+    source: issues/workshop-02-feb-02.md
+    number: 173
+    item_id: PVTI_lADOBit-m84BMoDpzgkbcxc
+  - title: '[262] [Workshop] Week 3 - Feb 9'
+    source: issues/workshop-03-feb-09.md
+    number: 174
+    item_id: PVTI_lADOBit-m84BMoDpzgkbcx0
+  - title: '[262] [Workshop] Week 4 - Feb 16'
+    source: issues/workshop-04-feb-16.md
+    number: 175
+    item_id: PVTI_lADOBit-m84BMoDpzgkbcyU
+  - title: '[262] [Workshop] Week 5 - Feb 23'
+    source: issues/workshop-05-feb-23.md
+    number: 176
+    item_id: PVTI_lADOBit-m84BMoDpzgkbcyo
+  - title: '[262] [Workshop] Week 6 - Mar 2'
+    source: issues/workshop-06-mar-02.md
+    number: 177
+    item_id: PVTI_lADOBit-m84BMoDpzgkbczA
+  - title: '[262] [Workshop] Week 7 - Mar 16'
+    source: issues/workshop-07-mar-16.md
+    number: 178
+    item_id: PVTI_lADOBit-m84BMoDpzgkbczQ
+  - title: '[262] [Workshop] Week 8 - Mar 23'
+    source: issues/workshop-08-mar-23.md
+    number: 179
+    item_id: PVTI_lADOBit-m84BMoDpzgkbczc
+  - title: '[262] [Workshop] Week 9 - Mar 30'
+    source: issues/workshop-09-mar-30.md
+    number: 180
+    item_id: PVTI_lADOBit-m84BMoDpzgkbcz4
+  - title: '[262] [Workshop] Week 10 - Apr 13'
+    source: issues/workshop-10-apr-13.md
+    number: 181
+    item_id: PVTI_lADOBit-m84BMoDpzgkbc0Q
+  - title: '[262] [Workshop] Week 11 - Apr 20'
+    source: issues/workshop-11-apr-20.md
+    number: 182
+    item_id: PVTI_lADOBit-m84BMoDpzgkbc0Y
+  - title: '[262] [Workshop] Week 12 - Apr 27'
+    source: issues/workshop-12-apr-27.md
+    number: 183
+    item_id: PVTI_lADOBit-m84BMoDpzgkbc0s
+  access_granted: 1
+  access_details:
+  - username: kungfuchicken
+    role: admin
+    was_existing: false
+slack:
+  channels:
+  - name: csci-dossp-262
+    channel_id: C0A8Q5GBM70
+    is_private: true
+    instructors_invited: 1
+    students_invited: 23
+assignments:
+  good-milestone-2: 705511
+  checkpoint_artifact-team_outing: 705512
+  demonstrate_professional_leadership: 705505
+  sprint-1-close: 705500
+  final-product_strategy: 705502
+  sprint-5-close: 705495
+  good-team_metrics_report_1: 705490
+  client_demo_feedback_1: 705506
+  checkpoint_artifact-choice-3: 705507
+  reflect-performance_evaluation_1: 705497
+  good-iteration_starters: 705499
+  final-team_presentation: 705491
+  client_demo_feedback_2: 705483
+  final-community_strategy: 705493
+  good-team_metrics_report_2: 705504
+  reflect-performance_evaluation_2: 705501
+  sprint-4-close: 705494
+  sprint-2-close: 705489
+  checkpoint_artifact-choice-2: 705503
+  checkpoint_artifact-choice-1: 705487
+  good-milestone-1: 705484
+  sprint-3-close: 705488
+  checkpoint_artifact-working_agreements: 705486
+  good-okr: 705492
+  good-retrospective_facilitation: 705496
+  final-working_software: 705510
+  final_performance_evaluation: 705498
+  good-team_metrics_report_3: 705509
+  checkpoint_artifact-choice-4: 705485
+  sprint-6-close: 705508
+pages:
+  sprint_1_transition: sprint-1-transition-5
+  recommendations: recommendations-5
+  additional_resources_&_related_materials: additional-resources-and-related-materials-5
+  required_readings_&_reading_schedule: required-readings-and-reading-schedule-5
+  iteration_starters_&_good_first_issues: iteration-starters-and-good-first-issues-5
+  open_source_conference_travel_stipend_program: open-source-conference-travel-stipend-program
+  iteration_starters_&_good_first_issues_copy: iteration-starters-and-good-first-issues-copy-5
+  sprint_structure_expectations: sprint-structure-and-expectations

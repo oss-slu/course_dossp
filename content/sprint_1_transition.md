@@ -3,7 +3,6 @@ title: Sprint 1 Transition
 url: sprint-1-transition
 published: true
 front_page: false
-canvas_id: 803504
 ---
 ## 1. The Machine
 

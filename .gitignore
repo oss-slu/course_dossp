@@ -53,3 +53,18 @@ tmp/
 
 # Logs
 *.log
+
+# Binary files that don't need to be tracked in Git
+.pdf
+.ppt*
+.doc*
+.mov
+.mp4
+.flac
+.mp3
+.ogg
+.mkv
+
+# Rosters
+roster-*.csv
+rosters/

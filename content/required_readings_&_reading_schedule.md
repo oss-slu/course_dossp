@@ -3,245 +3,220 @@ title: Required Readings & Reading Schedule
 url: required-readings-and-reading-schedule
 published: true
 front_page: false
-canvas_id: 800237
 ---
-DOSSP Unified Reading Schedule
+
+# DOSSP Reading Schedule - Spring 2026
 
 ## Course Overview
 
-The Development of Open Source Software Products (DOSSP) is a two-course sequence that can be entered in either the fall or spring semester. Each semester covers complementary aspects of leading software development teams and building successful open source products.
-**Reading List Selection:** You may follow either reading list (or both if you have the time and interest), but my recommendation is that you either follow the First Semester list if this is your first (or only) time taking this course, or follow the Second Semester list if this is your second time taking the course.
-- **First-time students:** Follow the First Semester reading list for foundational skills
-- **Returning students:** Follow the Second Semester reading list for deeper exploration
-- **Ambitious students:** Both lists can be completed for comprehensive coverage
-- Both semesters provide valuable but different perspectives on leading open source software development
+The Development of Open Source Software Products (DOSSP) brings together students at different points in their leadership journey. This reading schedule is designed so that **all students engage with common anchor readings** while pursuing differentiated depth through parallel book tracks.
 
-## Required Reading Philosophy
+### How This Works
 
-I consider these readings as essential for the work in both semesters. The reading load reflects the professional expectations for leaders in the field. If the reading list seems daunting, welcome to being a professional and a leader in your field. You will need to do a lot of reading and take in as much information as possible to be as effective as possible.
+Each week includes:
+1. **Anchor Reading** (Required for all): A shorter article, video, or chapter that everyone completes. Workshop discussions center on this material.
+2. **Book Track** (Choose your path): Longer readings from your selected book track that provide deeper exploration.
 
-## Quick Reading Strategies:
+**Track Selection:**
+- **Foundations Track**: For first-time DOSSP students. Builds core leadership vocabulary and mental models.
+- **Advanced Track**: For returning students. Explores the same themes with greater abstraction and nuance.
 
-- "How to Read a Book In One Hour" by Larry Cebula (2010) https://northwesthistory.blogspot.com/2010/04/how-to-read-book-in-one-hour.html
-- "How to read a (good) book in one hour" by Christopher M. Kelty (2007) https://savageminds.org/2007/10/01/how-to-read-a-good-book-in-one-hour/
-- "How to Read a Book, v5.0" by Paul N. Edwards (2000) https://pne.people.si.umich.edu/PDF/howtoread.pdf
-**Team Leadership Note:** Share relevant insights from readings with your team and discuss key concepts relevant to current work. This knowledge sharing is a valuable service you can provide as a leader. There are no required written reports or tests evaluating your retention of any particular topics. I will be listening for evidence you are practicing knowledge sharing throughout the semester.
+Both tracks cover the same four themes on the same weeks, enabling cross-track discussion while respecting different experience levels.
 
-## DOSSP - First Semester
+## Learning Outcomes by Theme
 
-### Course Focus
+### Developing (Team Dynamics)
+After completing the Developing readings, you will be able to:
+- Identify characteristics of effective team members and diagnose team dysfunction
+- Facilitate productive team conversations (retrospectives, working agreements, conflict resolution)
+- Apply servant leadership principles to your Tech Lead role
+- Recognize when team dynamics are blocking technical progress
 
-This semester emphasizes the foundational skills needed for technical leadership, covering team dynamics, open source community management, software engineering practices, and product management principles. The curriculum is structured around four rotating themes that build comprehensive leadership capabilities.
+### Open Source (Community Management)
+After completing the Open Source readings, you will be able to:
+- Design contributor onboarding experiences that lower barriers to participation
+- Build and sustain community engagement beyond transactional contributions
+- Navigate governance decisions and community conflict constructively
+- Articulate the ethical dimensions of open source leadership
 
-### Reading Sequence Structure
+### Software (Software Engineering)
+After completing the Software readings, you will be able to:
+- Advocate for engineering practices that improve code quality and team velocity
+- Evaluate architectural decisions in terms of maintainability and team capability
+- Apply threat modeling to identify and mitigate security risks
+- Communicate technical concepts to non-technical stakeholders
 
-The semester follows a 4-week rotating cycle through core themes:
-- **Week 1 of cycle:** Developing (Team Dynamics) - Building effective teams and leadership skills
-- **Week 2 of cycle:** Open Source (Community Management) - Understanding community building and collaboration
-- **Week 3 of cycle:** Software (Software Engineering) - Technical practices and engineering excellence
-- **Week 4 of cycle:** Products (Product Management) - Product strategy and market understanding
-This rotation ensures continuous development across all leadership dimensions while allowing deep focus on each area.
-**Personal Reflection:** You are encouraged to keep a personal written reflection throughout the semester. This is not an assignment that should be turned in, but an opportunity to capture your thinking on the material when first encountering it, and ask yourself questions about how it relates to your current project work.
-**Note on Extended Reading:** You may notice that the first course has readings that extend beyond the 16 weeks of the course. This is intentional. The learning never ends.
+### Products (Product Management)
+After completing the Products readings, you will be able to:
+- Translate user needs into actionable development priorities
+- Make product decisions that balance technical constraints with user value
+- Consider diverse user contexts when designing product features
+- Communicate product vision and roadmap to stakeholders and team members
 
-### Weekly Schedule
+## Reading Philosophy
 
-Week
-Theme
-Material
-Pages/Duration
-Week 1
-Developing
-Ideal Team Player p. 153-173
-20
-Week 2
-Open Source
-Participating & Thriving
-46
-Week 3
-Software
-Foundations
-1:21:58
-Week 4
-Products
-From Pessimism to Promise p. ix-62
-67
-Week 5
-Developing
-Ideal Team Player p. 173-215
-42
-Week 6
-Open Source
-Leadership & Strategy
-15/42:02
-Week 7
-Software
-Quality
-30+
-Week 8
-Products
-From Pessimism to Promise p. 63-121
-58
-Week 10
-Developing
-Servant Leadership p 1-61
-61
-Week 11
-Open Source
-Collaboration & Generosity
-1:16:20
-Week 12
-Software
-Architecture
-11/53:25
-Week 13
-Products
-Build p. xi-86
-94
-Week 14
-Developing
-Servant Leadership p 304-360
-56
-Week 15
-Open Source
-Values & Ethics
-64/2:20:01
-Week 16
-Software
-Security
-37
-Week 18
-Products
-Build p. 87-161 & 281-291
-84
+These readings reflect professional expectations for technical leaders. The load may feel substantial—welcome to leadership. Effective leaders continuously absorb information to make better decisions.
 
-### Reading Materials
+**Quick Reading Strategies:**
+- ["How to Read a Book In One Hour"](https://northwesthistory.blogspot.com/2010/04/how-to-read-book-in-one-hour.html) by Larry Cebula (2010)
+- ["How to read a (good) book in one hour"](https://savageminds.org/2007/10/01/how-to-read-a-good-book-in-one-hour/) by Christopher M. Kelty (2007)
+- ["How to Read a Book, v5.0"](https://pne.people.si.umich.edu/PDF/howtoread.pdf) by Paul N. Edwards (2000)
 
-## Developing (Team Dynamics):
+**Knowledge Sharing Expectation:** Share relevant insights from readings with your team. This knowledge transfer is a core leadership service. There are no written reports or retention tests—I listen for evidence of knowledge sharing throughout the semester.
 
-- *The Ideal Team Player: How to Recognize and Cultivate The Three Essential Virtues* by Patrick M. Lencioni
-- Selections from *Servant Leadership: A Journey into the Nature of Legitimate Power and Greatness* by Robert K. Greenleaf (PDFs available in Canvas; reading the entire book recommended for professional development)
+**Personal Reflection:** Consider keeping a private written reflection capturing your thinking when encountering new material and connecting it to your current project work. This is not submitted but supports your learning.
 
-## Open Source (Community Management):
+---
 
-*Participating & Thriving*
-- "Participating In Open Source Communities" by Stormy Peters, Nithya Ruff https://todogroup.org/resources/guides/participating-in-open-source-communities/
-- "How to Build a Thriving Open Source Community" by Jono Bacon https://www.commonroom.io/blog/five-steps-for-building-a-thriving-open-source-community/
-- "Innovation, Adaptation, And Recovery" Ch. 9 from *Six Degrees: The Science of the Connected Age* by Duncan J. Watts https://canvas.slu.edu/courses/70755/files/5879756?wrap=1
-*Leadership & Strategy*
-- "Building Leadership in an Open Source Community" by Guy Martin, Gil Yehuda https://todogroup.org/resources/guides/building-leadership-in-an-open-source-community/
-- "Seth Godin on building a culture of impact - Culture First Podcast with Damon Klotz" https://www.youtube.com/watch?v=dSy47Al390k
-*Collaboration & Generosity*
-- "Yochai Benkler: After Selfishness - Wikipedia 1, Hobbes 0 at Half Time" https://www.youtube.com/watch?v=jMxz7rzwee8
-*Values & Ethics*
-- *The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary* by Eric S. Raymond p. 1-18 & p. 67-113 https://monoskop.org/images/e/e0/Raymond_Eric_S_The_Cathedral_and_the_Bazaar_rev_ed.pdf#page=11.27
-- "What Would Open Source Look Like If It Were Healthy? Video & Transcript" by Sumana Harihareswara from GitHub Office of the CTO Speaker Series https://harihareswara.net/posts/2021/what-would-open-source-look-like-if-it-were-healthy-video-transcript/
-- "Yochai Benkler - Productivity and Power: The Role of Technology in Political Economy" from ACM FAccT Conference https://www.youtube.com/watch?v=_YDsGSl_qUA
+## Weekly Schedule
 
-## Software (Software Engineering):
+| Week | Date | Theme | Anchor Reading (All) | Foundations Track | Advanced Track |
+|------|------|-------|---------------------|-------------------|----------------|
+| 1 | Jan 26 | Developing | "How to Build a Thriving Open Source Community" by Jono Bacon | Ideal Team Player p. 153-173 (20p) | Debugging Teams pp. 5-53 (48p) |
+| 2 | Feb 2 | Open Source | "Participating In Open Source Communities" (TODO Group) | Leadership & Strategy readings | Bacon: Art of Community Ch. 1-2 (40p) |
+| 3 | Feb 9 | Software | "How To Be A Great Programmer" Dave Farley video (32min) | Quality readings (30p) | Hamming: Intro, Ch. 1, 2, 4, 5 (61p) |
+| 4 | Feb 16 | Products | "Engineering for Software in 8 Minutes" Dave Farley (8min) | From Pessimism to Promise p. ix-62 (67p) | Torres: Intro, Part 1 (36p) |
+| 5 | Feb 23 | Developing | "Seth Godin on building a culture of impact" video (42min) | Ideal Team Player p. 173-215 (42p) | Debugging Teams pp. 54-110 (56p) |
+| 6 | Mar 2 | Open Source | "Building Leadership in an Open Source Community" (TODO Group) | Innovation, Adaptation, Recovery (Watts) | Bacon: Ch. 3-4 + Wade: "Attracting Users" (60p) |
+| 7 | Mar 9 | Software | "Self Testing Code" by Martin Fowler + 1 selection from martinfowler.com/testing | Architecture readings (11p + 53min video) | Hamming: Ch 8, 10, 13, 18, 19 (57p) |
+| 8 | Mar 16 | Products | "What Software Architecture Should Look Like" Dave Farley video (45min) | From Pessimism to Promise p. 63-121 (58p) | Torres: Ch 3-7 (70p) |
+| **9** | **Mar 23** | **Spring Break** | **No readings** | — | — |
+| 10 | Mar 30 | Developing | "Yochai Benkler: After Selfishness" video (40min) | Servant Leadership p. 1-61 (61p) | Hamming: Ch 25-29 (50p) |
+| 11 | Apr 6 | Open Source | Cathedral and the Bazaar p. 1-18 (Raymond) | Cathedral and the Bazaar p. 67-113 (46p) | Bacon: Ch. 8-9 + Wade: "Measuring Success" (64p) |
+| 12 | Apr 13 | Software | "Threat Modeling Manifesto" | Security readings (37p) | Torres: Ch 8-10 (45p) |
+| 13 | Apr 20 | Products | "Bounded Contexts" Eric Evans video (35min) | Build p. xi-86 (94p) | Torres: Ch 11-15 (48p) |
+| 14 | Apr 27 | Developing | "What Would Open Source Look Like If It Were Healthy?" (Harihareswara) | Servant Leadership p. 304-360 (56p) | Wade: "Community 101" + reflection integration |
+| 15 | May 4 | Wrap-up | No new readings—focus on final deliverables | — | — |
+| 16 | May 11 | Finals | No readings | — | — |
 
-*Foundations*
-- "How To Be A Great Programmer • Dave Farley • GOTO 2023" https://www.youtube.com/watch?v=SUfdJghSyog
-- "Engineering for Software in 8 Minutes • Dave Farley • YOW! 2022" https://www.youtube.com/watch?v=x-29vnDLP4Q
-- "Dave Farley - Modern Software Engineering: Building Better Software Faster - Annual Conference 2024" https://www.youtube.com/watch?v=4itjCb4BiIA
-*Quality*
-- "Self Testing Code" by Martin Fowler https://martinfowler.com/bliki/SelfTestingCode.html
-- "What Is Software Quality?" https://asq.org/quality-resources/software-quality
-- "Quality Assurance vs Control" https://asq.org/quality-resources/quality-assurance-vs-control
-- "How to create software quality" by Will Larson https://lethain.com/quality/
-- "Becoming Software Craftsmen" by Ben Linders https://www.infoq.com/news/2014/11/becoming-software-craftsmen/
-- "Programming is not a craft" by Dan North https://dannorth.net/programming-is-not-a-craft/
-- 1 additional selection from https://martinfowler.com/testing/
-*Architecture*
-- "What Software Architecture Should Look Like • Dave Farley • GOTO 2022" https://www.youtube.com/watch?v=Eg_dapdKCHU
-- "Bounded Contexts - Eric Evans - DDD Europe 2020" https://www.youtube.com/watch?v=am-HXycfalo
-- "Software Architecture Guide: A guide to material on martinfowler.com about software architecture" by Martin Fowler https://martinfowler.com/architecture/
-*Security*
-- "Threat Modeling Manifesto" https://www.threatmodelingmanifesto.org/
-- "Threat Modeling Cheat Sheet" by OWASP Cheat Sheet Series Team https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html
-- "A Guide to Thread Modelling for Developers" by Jim Gumbley https://martinfowler.com/articles/agile-threat-modelling.html
+**Note:** Week 13 (Foundations Track) has a heavy load at 94 pages. Consider starting Build earlier or reading strategically.
 
-## Products (Product Management):
+---
 
-- *From Pessimism to Promise: Lessons from the Global South on Designing Inclusive Tech* by Payal Arora
-- *Build: An Unorthodox Guide to Making Things Worth Making* by Tony Fadell
+## Required Texts by Track
 
-## DOSSP - Second Semester
+### Foundations Track
 
-### Course Focus
+| Theme | Text | Acquisition |
+|-------|------|-------------|
+| Developing | *The Ideal Team Player* by Patrick Lencioni | Purchase (~$15) |
+| Developing | *Servant Leadership* by Robert K. Greenleaf (selections) | PDF in Canvas Files |
+| Open Source | Articles and videos (linked in schedule) | Free online |
+| Software | Articles and videos (linked in schedule) | Free online |
+| Products | *From Pessimism to Promise* by Payal Arora | Purchase (~$25) |
+| Products | *Build* by Tony Fadell | Purchase (~$20) or library |
 
-This semester expands the foundational skills needed for technical leadership by exploring the same four themes in more abstract and indirect ways. We start to move from knowledge about team dynamics, open source community management, software engineering practices, and product management principles towards an informed decision making that aims for developing wisdom. The four rotating themes that build comprehensive leadership capabilities gain depth from the combination of knowledge and experiences from the first semester. Making these texts meaningful may require revisiting written reflections from the first semester.
+**Estimated cost:** ~$60 if purchasing all books
 
-### Reading Sequence Structure
+### Advanced Track
 
-The semester covers the same four themes as the first semester (Developing, Open Source, Software, Products), but follows a different rotation pattern that begins with technical foundations and moves toward human and organizational dynamics. The pattern is Software, Products, Open Source, Developing:
-- **Software (Software Engineering)** - Technical practices and engineering excellence
-- **Products (Product Management)** - Product strategy and discovery methods
-- **Open Source (Community Management)** - Community building and collaboration
-- **Developing (Team Dynamics)** - Team leadership and organizational skills
-This sequence allows you to ground abstract leadership concepts in concrete technical practices, then progress toward the more complex human and social aspects of leading software development teams.
+| Theme | Text | Acquisition |
+|-------|------|-------------|
+| Developing | *Debugging Teams* by Collins-Sussman & Fitzpatrick | [Free online](https://www.debuggingteams.com/) or purchase |
+| Open Source | *The Art of Community* by Jono Bacon | [Free online](https://www.jonobacon.com/books/artofcommunity/) |
+| Open Source | *The Open Source Way 2.0* by Karsten Wade et al. | [Free online](https://www.theopensourceway.org/) |
+| Software | *The Art of Doing Science and Engineering* by Richard Hamming | [Stripe Press](https://press.stripe.com/the-art-of-doing-science-and-engineering) (~$25) |
+| Products | *Continuous Discovery Habits* by Teresa Torres | Purchase (~$20) or [author site](https://www.producttalk.org/2021/05/continuous-discovery-habits/) |
 
-### Weekly Schedule
+**Estimated cost:** ~$45 if purchasing Hamming and Torres; others free online
 
-Week
-Theme
-Material
-Pages/Duration
-Week 1
-Software
-Hamming: Introduction, Chapters 1, 2, 4, 5
-61
-Week 2
-Products
-Torres: Intro, Part 1, skim Part 2
-36
-Week 3
-Open Source
-Bacon: Ch. 1, 2; Wade: "Community 101"
-70
-Week 4
-Developing
-Fitzpatrick & Collins-Sussman: pp. 5-53
-48
-Week 5
-Software
-Hamming: Ch 8, 10, 13, 18
-45
-Week 6
-Products
-Torres: Ch 3-10
-139
-Week 7
-Open Source
-Bacon: Ch. 3, 4; Wade: "Attracting Users"
-60
-Week 8
-Developing
-Fitzpatrick & Collins-Sussman: pp. 54-110
-56
-Week 9
-Software
-Hamming: ch 19, 25-29
-62
-Week 10
-Products
-Torres: Ch 11-15
-48
-Week 11
-Open Source
-Bacon: Ch. 8, 9; Wade: "Measuring Success"
-64
+---
 
-### Required Texts
+## Anchor Reading Links
 
-You can find these books in hard copy for approximately $60 total, or access free/electronic versions for significantly less:
-- *Debugging Teams* by Ben Collins-Sussman, Brian Fitzpatrick. O'Reilly Media, Inc. 2015. https://www.debuggingteams.com/
-- *The Art of Doing Science and Engineering* by Richard W. Hamming. Stripe Press, 2020. https://press.stripe.com/the-art-of-doing-science-and-engineering
-- *Continuous Discovery Habits: Discover Products That Create Customer Value and Business Value* by Teresa Torres. Product Talk, LLC, 2021. https://www.producttalk.org/2021/05/continuous-discovery-habits/
-- *The Open Source Way 2.0* by Karsten Wade, et. al. https://www.theopensourceway.org/
-- *The Art of Community, Second Edition* by Jono Bacon. O'Reilly Media, Inc. 2012. https://www.jonobacon.com/books/artofcommunity/
+### Developing Theme
+- ["How to Build a Thriving Open Source Community"](https://www.commonroom.io/blog/five-steps-for-building-a-thriving-open-source-community/) by Jono Bacon
+- ["Building Leadership in an Open Source Community"](https://todogroup.org/resources/guides/building-leadership-in-an-open-source-community/) by Guy Martin, Gil Yehuda (TODO Group)
+- ["Yochai Benkler: After Selfishness - Wikipedia 1, Hobbes 0 at Half Time"](https://www.youtube.com/watch?v=jMxz7rzwee8) (40 min video)
+- ["What Would Open Source Look Like If It Were Healthy?"](https://harihareswara.net/posts/2021/what-would-open-source-look-like-if-it-were-healthy-video-transcript/) by Sumana Harihareswara
 
-## Additional Resources
+### Open Source Theme
+- ["Participating In Open Source Communities"](https://todogroup.org/resources/guides/participating-in-open-source-communities/) by Stormy Peters, Nithya Ruff (TODO Group)
+- ["Seth Godin on building a culture of impact"](https://www.youtube.com/watch?v=dSy47Al390k) - Culture First Podcast (42 min video)
+- [*The Cathedral and the Bazaar*](https://monoskop.org/images/e/e0/Raymond_Eric_S_The_Cathedral_and_the_Bazaar_rev_ed.pdf) by Eric S. Raymond, p. 1-18
 
-Both semesters reference additional materials available in the Resources and Recommendations sections. These supplementary readings provide deeper exploration of topics introduced in the required readings and support ongoing professional development.
-**Note:** Schedules can be adjusted if all participants agree to modifications. The focus should remain on thorough engagement with the material and practical application to your current projects and team leadership challenges.
+### Software Theme
+- ["How To Be A Great Programmer"](https://www.youtube.com/watch?v=SUfdJghSyog) by Dave Farley, GOTO 2023 (32 min video)
+- ["Engineering for Software in 8 Minutes"](https://www.youtube.com/watch?v=x-29vnDLP4Q) by Dave Farley, YOW! 2022
+- ["Self Testing Code"](https://martinfowler.com/bliki/SelfTestingCode.html) by Martin Fowler
+- ["Threat Modeling Manifesto"](https://www.threatmodelingmanifesto.org/)
+- ["What Software Architecture Should Look Like"](https://www.youtube.com/watch?v=Eg_dapdKCHU) by Dave Farley, GOTO 2022 (45 min video)
+- ["Bounded Contexts"](https://www.youtube.com/watch?v=am-HXycfalo) by Eric Evans, DDD Europe 2020 (35 min video)
+
+### Products Theme
+- (Videos listed above serve double duty for Products discussions)
+
+---
+
+## Foundations Track Supplementary Readings
+
+### Open Source - Leadership & Strategy
+- ["Building Leadership in an Open Source Community"](https://todogroup.org/resources/guides/building-leadership-in-an-open-source-community/) by Guy Martin, Gil Yehuda (TODO Group) (15p)
+
+### Open Source - Innovation, Adaptation, Recovery
+- "Innovation, Adaptation, And Recovery" Ch. 9 from *Six Degrees: The Science of the Connected Age* by Duncan J. Watts (PDF available in Canvas Files folder)
+
+### Open Source - Values & Ethics
+- [*The Cathedral and the Bazaar*](https://monoskop.org/images/e/e0/Raymond_Eric_S_The_Cathedral_and_the_Bazaar_rev_ed.pdf) by Eric S. Raymond, p. 67-113
+- ["Yochai Benkler - Productivity and Power"](https://www.youtube.com/watch?v=_YDsGSl_qUA) from ACM FAccT Conference (video)
+
+### Software - Quality
+- ["What Is Software Quality?"](https://asq.org/quality-resources/software-quality) (ASQ)
+- ["Quality Assurance vs Control"](https://asq.org/quality-resources/quality-assurance-vs-control) (ASQ)
+- ["How to create software quality"](https://lethain.com/quality/) by Will Larson
+- ["Becoming Software Craftsmen"](https://www.infoq.com/news/2014/11/becoming-software-craftsmen/) by Ben Linders
+- ["Programming is not a craft"](https://dannorth.net/programming-is-not-a-craft/) by Dan North
+- Select 1 additional piece from [martinfowler.com/testing](https://martinfowler.com/testing/)
+
+### Software - Architecture
+- ["Software Architecture Guide"](https://martinfowler.com/architecture/) by Martin Fowler (11p)
+
+### Software - Security
+- ["Threat Modeling Cheat Sheet"](https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html) by OWASP
+- ["A Guide to Threat Modelling for Developers"](https://martinfowler.com/articles/agile-threat-modelling.html) by Jim Gumbley
+
+---
+
+## Reading Load Summary
+
+*Note: These are approximations. Many readings cross themes—for example, Hamming's later chapters (25-29) address leadership, creativity, and career development rather than technical software engineering. Torres covers discovery methods that blend product and software concerns. The theme labels indicate the primary lens for that week's discussion, not rigid content boundaries.*
+
+### Foundations Track
+| Theme | Total Pages | Total Video | Weeks |
+|-------|-------------|-------------|-------|
+| Developing | ~179p | ~80 min | 4 |
+| Open Source | ~125p | ~80 min | 4 |
+| Software | ~78p | ~135 min | 4 |
+| Products | ~219p | ~8 min | 3 |
+| **Total** | **~600p** | **~5 hrs** | **14** |
+
+**Average:** ~43 pages/week + occasional video
+
+### Advanced Track
+| Theme | Total Pages | Total Video | Weeks |
+|-------|-------------|-------------|-------|
+| Developing | ~154p | ~80 min | 4 |
+| Open Source | ~164p | ~80 min | 4 |
+| Software | ~118p | ~135 min | 4 |
+| Products | ~244p | ~8 min | 3 |
+| **Total** | **~680p** | **~5 hrs** | **14** |
+
+**Average:** ~49 pages/week + occasional video
+
+*Advanced Track note: Hamming Ch 25-29 (50p) counted under Developing; Torres Ch 8-10 (45p) counted under Products despite appearing in a Software-themed week.*
+
+---
+
+## Discussion Integration
+
+Workshop discussions will focus on **anchor readings** so all students can participate fully regardless of track. Book track readings provide personal depth and inform your contributions but aren't assumed knowledge for group discussion.
+
+**Cross-track pairing:** Consider pairing with someone on the other track to share perspectives. A Foundations student reading Lencioni and an Advanced student reading Collins-Sussman/Fitzpatrick will have complementary insights on the same team dynamics theme.
+
+---
+
+## Schedule Adjustments
+
+Schedules can be adjusted if all participants agree to modifications. The focus should remain on thorough engagement with the material and practical application to your current projects and team leadership challenges.
+
+**Recommendation:** If you fall behind, prioritize anchor readings to stay engaged with workshop discussions. Book track readings can be caught up during lighter weeks or after the semester.

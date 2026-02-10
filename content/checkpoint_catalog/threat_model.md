@@ -1,17 +1,6 @@
 ---
 title: Threat Model
-points_possible: 1.0
-due_at: '2025-11-20T05:59:59Z'
-submission_types:
-- online_upload
-allowed_extensions:
-- pdf
-published: true
-assignment_group_id: 149308
-grading_type: points
-canvas_id: 657141
 ---
-## Due: November 19, 2025
 
 ## Overview
 

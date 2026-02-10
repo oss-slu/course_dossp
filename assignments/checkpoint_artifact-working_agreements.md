@@ -1,7 +1,7 @@
 ---
 title: Checkpoint 1 - Working Agreements
 points_possible: 1.0
-due_at: '2025-09-11T04:59:59Z'
+due_at: '2026-02-02T21:00:00Z'
 submission_types:
 - online_upload
 allowed_extensions:
@@ -10,9 +10,7 @@ allowed_extensions:
 - tex
 published: true
 assignment_group: "Checkpoints"
-assignment_group_id: 149308
 grading_type: points
-canvas_id: 641082
 ---
 **Points Possible:** 1.0
 

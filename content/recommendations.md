@@ -3,7 +3,6 @@ title: Recommendations
 url: recommendations
 published: true
 front_page: false
-canvas_id: 800239
 ---
 Optional Recommendations
 These are completely optional, but personally endorsed! Exercising our imaginations and learning to think about the world around us in new ways is important for becoming an effective software developer. If you have any recommendations of your own, please share them!

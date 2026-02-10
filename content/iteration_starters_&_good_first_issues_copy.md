@@ -3,7 +3,6 @@ title: Iteration Starters & Good First Issues Copy
 url: iteration-starters-and-good-first-issues-copy
 published: false
 front_page: false
-canvas_id: 803482
 ---
 ## Objectives:
 

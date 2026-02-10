@@ -1,17 +1,6 @@
 ---
 title: User-Focused Checkpoint
-points_possible: 1.0
-due_at: '2025-10-24T04:59:59Z'
-submission_types:
-- none
-allowed_extensions: []
-published: true
-assignment_group_id: 149308
-grading_type: points
-canvas_id: 645637
 ---
-_*]:min-w-0 standard-markdown">
-**Due:** October 23
 **Sprint:** 4
 **Focus:** User Validation
 

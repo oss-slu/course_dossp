@@ -1,40 +1,35 @@
 ---
 title: Demonstrate Professional Leadership
-points_possible: 100.0
-due_at: '2025-12-03T05:59:59Z'
+points_possible: 10.0
+due_at: '2026-05-04T21:00:00Z'
 submission_types:
 - online_url
 allowed_extensions: []
 published: true
 assignment_group: "Demonstrate Professional Leadership"
-assignment_group_id: 149307
 grading_type: points
-canvas_id: 641076
 ---
-## Leadership Capacity Building 
+## TL;DR
+
+Complete **two leadership activities** from any of the four thematic areas below. Activities must be publicly visible and go beyond your primary team responsibilities. Required for A-level performance.
+
+**Aim high.** You will be evaluated as much on the ambition of your effort as the outcome of your work. We'd rather see you stretch toward something meaningful and fall short than play it safe.
+
+---
+
+## Leadership Capacity Building
 
 ### Requirements
 
-Leadership Capacity Building activities are required for A-level performance and must demonstrate publicly visible professional technical leadership. You may pursue external contributions (pull requests, publications, conferences, meetups, industry blog posts, etc.) or contribute to the Open Source with SLU community through collaborative documentation, shared resources, and cross-team knowledge sharing.
+Leadership Capacity Building activities must demonstrate publicly visible professional technical leadership. You may pursue external contributions (pull requests, publications, conferences, meetups, industry blog posts, etc.) or contribute to the Open Source with SLU community through collaborative documentation, shared resources, and cross-team knowledge sharing.
 
 **Important:** Any suggested examples that correspond directly with your primary team activities don't apply to you. The point of this activity is to do just a little bit more beyond your core project responsibilities.
-
-### Assignment Overview 
-
-This assignment is worth 100 points total consisting of:
-
-- **Collaborative Developer Project (30 points):** Participate as developers in a short 2-sprint instructor-led collaborative project near the start of the semester to build empathy and understanding of team member perspectives.
-- **Leadership Activities (70 points):** Complete two additional activities from any of the four thematic areas below. Each activity is worth 35 points.
 
 ### Submission Instructions
 
 Submit once for each leadership capacity building activity you complete. Duplicate submissions from the same thematic area are valid, so long as they are sufficiently distinct as to be easily distinguishable.
 
-**Open Source with SLU Blog Guidelines:** Open Source with SLU has a website with a blog. Any submissions to that blog should be in a corporate tone (third person voice with professional style) and should only cover topics that support the overall OSS objectives. Personal reflections on team progress and project development are valuable for personal posts on social media or personal websites, but are not suitable for the editorial voice of the OSS website.
-
 ## Developing (Team Dynamics)
-
-**Points:** 35 per activity
 
 **Goal:** Demonstrate professional leadership in collaborative development and team processes.
 
@@ -50,9 +45,7 @@ Submit once for each leadership capacity building activity you complete. Duplica
 
 **Documentation:** Write or contribute to an OSS blog post about your activity, including links to specific contributions and the final published post.
 
-### Open Source (Community Management)
-
-**Points:** 35 per activity
+## Open Source (Community Management)
 
 **Goal:** Build community engagement and contribute to open source governance and culture.
 
@@ -72,8 +65,6 @@ Submit once for each leadership capacity building activity you complete. Duplica
 
 ## Software (Software Engineering)
 
-**Points:** 35 per activity
-
 **Goal:** Make meaningful technical contributions that advance software engineering practices.
 
 ### Examples include:
@@ -82,10 +73,10 @@ Submit once for each leadership capacity building activity you complete. Duplica
 - Writing technical blog posts about engineering practices
 - Presenting at conferences, meetups, or other professional and open source community events about software engineering topics
 - Contributing code to Open Source with SLU projects (other than your primary team project)
-- **Rerum Bounty Opportunities** (paid in assignment points):
-- Creating new integrations of Rerum open source software products
-- Developing new domain-specific interfaces and web modules that interact with the Rerum API
-- Making direct contributions to Rerum open source software products
+- **Rerum Bounty Opportunities:**
+  - Creating new integrations of Rerum open source software products
+  - Developing new domain-specific interfaces and web modules that interact with the Rerum API
+  - Making direct contributions to Rerum open source software products
 - Participating in Hacktoberfest or similar community coding events
 - Creating technical tutorials or educational content
 - Contributing to open source tooling or libraries used by teams beyond your own
@@ -93,8 +84,6 @@ Submit once for each leadership capacity building activity you complete. Duplica
 **Documentation:** Link to merged pull requests, published technical content, or other verifiable contributions.
 
 ## Products (Product Management)
-
-**Points:** 35 per activity
 
 **Goal:** Create and share strategic planning frameworks and product development processes.
 
@@ -112,4 +101,10 @@ Submit once for each leadership capacity building activity you complete. Duplica
 
 ## Assessment
 
-There are no required written reports or tests evaluating your retention of specific topics. Assessment focuses on evidence of knowledge sharing, professional leadership demonstration, and meaningful contributions to technical communities.
+There are no required written reports or tests evaluating your retention of specific topics. Assessment focuses on evidence of ambition, knowledge sharing, professional leadership demonstration, and meaningful contributions to technical communities.
+
+---
+
+## Notes
+
+**Open Source with SLU Blog Guidelines:** The OSS website has a blog. Submissions should use a corporate tone (third person voice, professional style) and cover topics that support OSS objectives. Personal reflections on team progress are valuable for social media or personal websites, but are not suitable for the editorial voice of the OSS website.

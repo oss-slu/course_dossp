@@ -1,7 +1,7 @@
 ---
 title: Retrospective Facilitation
 points_possible: 1.0
-due_at: '2025-10-07T04:59:59Z'
+due_at: '2026-02-24T06:00:00Z'
 submission_types:
 - online_text_entry
 - online_upload
@@ -9,11 +9,9 @@ allowed_extensions:
 - pdf
 published: true
 assignment_group: "Good Practices"
-assignment_group_id: 149308
 grading_type: points
-canvas_id: 645635
 ---
-**Due:** October 6
+**Due:** February 24
 **Sprint:** 2/3
 **Focus:** Team Process Improvement
 

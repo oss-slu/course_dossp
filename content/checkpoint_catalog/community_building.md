@@ -1,18 +1,8 @@
 ---
 title: Community Building
-points_possible: 1.0
-due_at: '2025-10-17T04:59:59Z'
-submission_types:
-- online_text_entry
-allowed_extensions: []
-published: true
-assignment_group_id: 149308
-grading_type: points
-canvas_id: 645634
 ---
 ## Community Building Checkpoint
 
-**Due:** October 16
 **Sprint:** 3
 **Focus:** Community Engagement
 
@@ -61,6 +51,6 @@ Your reflection should function as an informal audit and assessment of the commu
 
 ### Notes
 
-- Guest speaker on October 8 will discuss community—use those insights to inform your approach
+- Guest speakers throughout the semester will discuss community—use those insights to inform your approach
 - Depth should match your project's maturity
 - Your client may offer guidance, but you lead this work

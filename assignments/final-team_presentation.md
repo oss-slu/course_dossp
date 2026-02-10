@@ -1,7 +1,7 @@
 ---
 title: Team Presentation
 points_possible: 1.0
-due_at: '2025-12-08T18:00:00Z'
+due_at: '2026-04-30T21:00:00Z'
 submission_types:
 - online_url
 - online_upload
@@ -16,9 +16,7 @@ allowed_extensions:
 - txt
 published: true
 assignment_group: "Final Deliverables"
-assignment_group_id: 149309
 grading_type: points
-canvas_id: 661000
 ---
 **Team Presentation**
 **Due:** End of Iteration (Sprint 7/Launch Sprint)
