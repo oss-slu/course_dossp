@@ -92,7 +92,6 @@ content/        Long-form course content and page text
 files/          Static files distributed through Canvas (PDFs, images)
 issues/         GitHub Issues for instructor course management
 quizzes/        Quiz definitions (Markdown + YAML metadata)
-scripts/        Course setup automation
 modules.yaml    Canvas module structure and ordering
 course-info.yaml  Per-instance course configuration
 ```
