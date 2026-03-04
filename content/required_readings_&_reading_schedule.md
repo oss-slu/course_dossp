@@ -78,9 +78,9 @@ These readings reflect professional expectations for technical leaders. The load
 | 4 | Feb 16 | Products | "Engineering for Software in 8 Minutes" Dave Farley (8min) | From Pessimism to Promise p. ix-62 (67p) | Torres: Intro, Part 1 (36p) |
 | 5 | Feb 23 | Developing | "Seth Godin on building a culture of impact" video (42min) | Ideal Team Player p. 173-215 (42p) | Debugging Teams pp. 54-110 (56p) |
 | 6 | Mar 2 | Open Source | "Building Leadership in an Open Source Community" (TODO Group) | Innovation, Adaptation, Recovery (Watts) | Bacon: Ch. 3-4 + Wade: "Attracting Users" (60p) |
-| 7 | Mar 9 | Software | "Self Testing Code" by Martin Fowler + 1 selection from martinfowler.com/testing | Architecture readings (11p + 53min video) | Hamming: Ch 8, 10, 13, 18, 19 (57p) |
-| 8 | Mar 16 | Products | "What Software Architecture Should Look Like" Dave Farley video (45min) | From Pessimism to Promise p. 63-121 (58p) | Torres: Ch 3-7 (70p) |
-| **9** | **Mar 23** | **Spring Break** | **No readings** | — | — |
+| **7** | **Mar 9** | **Spring Break** | **No readings** | — | — |
+| 8 | Mar 16 | Software | "Self Testing Code" by Martin Fowler + 1 selection from martinfowler.com/testing | Architecture readings (11p + 53min video) | Hamming: Ch 8, 10, 13, 18, 19 (57p) |
+| 9 | Mar 23 | Products | "What Software Architecture Should Look Like" Dave Farley video (45min) | From Pessimism to Promise p. 63-121 (58p) | Torres: Ch 3-7 (70p) |
 | 10 | Mar 30 | Developing | "Yochai Benkler: After Selfishness" video (40min) | Servant Leadership p. 1-61 (61p) | Hamming: Ch 25-29 (50p) |
 | 11 | Apr 6 | Open Source | Cathedral and the Bazaar p. 1-18 (Raymond) | Cathedral and the Bazaar p. 67-113 (46p) | Bacon: Ch. 8-9 + Wade: "Measuring Success" (64p) |
 | 12 | Apr 13 | Software | "Threat Modeling Manifesto" | Security readings (37p) | Torres: Ch 8-10 (45p) |
