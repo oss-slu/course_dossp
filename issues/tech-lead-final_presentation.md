@@ -7,21 +7,22 @@ assignment: "final-team_presentation"
 
 ## Description
 
-As an Instructor, I need to coordinate final presentations so that Tech Leads can showcase their team's work to stakeholders.
+As an Instructor, I need to coordinate end-of-semester presentation events so that Tech Leads can showcase their team's work to stakeholders at the Public Showcase and Launch Day.
 
 ## Acceptance Criteria
 
-- [ ] Presentation logistics communicated (date, time, format)
-- [ ] Presentation expectations clarified (coherent story, accessible technical explanations)
+- [ ] Public Showcase logistics communicated (date, time, location, format)
+- [ ] Launch Day logistics communicated
+- [ ] Presentation expectations clarified for both events
 - [ ] Speaking role coordination discussed
 - [ ] Questions answered / office hours available
-- [ ] Presentations delivered
-- [ ] Attendance verified
+- [ ] Presentations delivered at Public Showcase
+- [ ] Attendance verified at both events
 
 ## Notes
 
-Due: April 30, 2026
+Due: April 30, 2026 (Public Showcase); Launch Day during final exam period
 
-**Tech Lead responsibility**: Finalize presentation materials, assign team speaking roles, tell coherent product story, explain technical decisions accessibly, deliver presentation.
+**Tech Lead responsibility**: Finalize presentation materials, coordinate team speaking roles, tell coherent product story, explain technical decisions accessibly, deliver presentations at both events. Incorporate Public Showcase feedback into Launch Day presentation.
 
 See `assignments/final-team_presentation.md` for full details.

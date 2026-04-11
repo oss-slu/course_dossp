@@ -193,10 +193,10 @@ modules:
         type: assignment
         due_date: '2026-04-13T21:00:00Z'
         assignment: sprint-5-close
-      - name: Poster Presentation Draft (Developer Responsibility)
+      - name: Presentation Draft (Developer Responsibility)
         type: label
         description: >
-          Developers are responsible for the SSE Undergraduate Showcase poster presentation draft.
+          Developers are responsible for the presentation draft (poster or slide deck, depending on semester).
           Tech Leads should coordinate with their team to ensure preparation is on track.
           See the Capstone course for the full assignment details.
       # Sprint 6
@@ -324,6 +324,15 @@ modules:
       - name: Launch Preparation Checklist
         type: file
         file: launch_preparation_checklist.pdf
+
+      - name: Presentation Formats
+        type: label
+      - name: Slide Deck Presentation (Fall)
+        type: content
+        content: slide_deck_presentation.md
+      - name: Poster Session Presentation (Spring)
+        type: content
+        content: poster_session_presentation.md
 
       - name: Deliverables
         type: label
