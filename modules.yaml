@@ -236,7 +236,10 @@ modules:
 
           Completing good practices in a timely fashion is required to get at least a B in the course.
           
-          We say "Good Practices" instead of "Best Practices" because there is not a single, universal, context-free "best". We must adapt these practices to a specific local context. If completing a good practice doesn't make sense or requires adaptation, please document the rationale for the choice you are making and an explanation of your adaptations.  
+          We say "Good Practices" instead of "Best Practices" because there is not a single, universal, context-free "best". We must adapt these practices to a specific local context. If completing a good practice doesn't make sense or requires adaptation, please document the rationale for the choice you are making and an explanation of your adaptations.
+      - name: Exception Reports
+        type: content
+        content: exception_reports.md
       - name: Milestone 1
         type: assignment
         due_date: '2026-01-26'
