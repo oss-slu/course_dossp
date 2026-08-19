@@ -1,23 +1,22 @@
-# Course Information - Developing Open Source Software Products
+# Course Information - Software Product Engineering Leadership (SPEL)
+# Formerly Developing Open Source Software Products (DOSSP).
+# The repository name remains course_dossp until the semester break; see
+# ~working/reports/fall-2026-course-content-audit-260818.md for rename scope.
 # This file contains the configuration for spinning up a new course instance
 course:
-  display_title: "Developing Open Source Software"
-  title: 
-    - "Developing Open Source Software Products II"
-    - "Developing Open Source Software Products II"
-  course_number: 
-    - "CSCI-4930"
+  display_title: "Software Product Engineering Leadership"
+  title:
+    - "Special Topics: Software Product Engineering Leadership"
+  course_number:
     - "CSCI-5930"
-  section: 
-    - "02"
-    - "02"
-  crn: 
-    - "27596"
-    - "26314"
-  semester: "262"
-  academic_year: "2025-2026"
-  start_date: "2026-01-12"
-  end_date: "2026-05-11"
+  section:
+    - "01"
+  crn:
+    - "16540"
+  semester: "271"
+  academic_year: "2026-2027"
+  start_date: "2026-08-19"
+  end_date: "2026-12-04"
 
   instructors:
     - name: "Daniel Shown"
@@ -27,12 +26,12 @@ course:
 
 # Roster Configuration
 roster:
-  path: "./roster-dossp-final.csv"
+  path: "./roster-spel-final.csv"
 
 # Canvas Configuration
 canvas:
   instance_url: "https://canvas.slu.edu/"
-  course_id: 89519
+  course_id: 97306
   publish_on_create: false
 
 # GitHub Configuration
@@ -51,7 +50,7 @@ github:
   project:
     create_project: true
     create_issues: true
-    project_name_template: "DOSSP - {semester}"
+    project_name_template: "SPEL - {semester}"
     student_role: read
     labels:
       - name: "reading"
@@ -77,53 +76,65 @@ github:
 slack:
   create_channels: true
   workspace_id: "T03ND1N37T5"
-  channel_prefix: "dossp"
+  channel_prefix: "spel"
   channels:
     - name: "csci-{prefix}-{semester}"
-      description: "DOSSP Course Channel"
+      description: "SPEL Course Channel"
       is_private: true
 
 # Course Schedule Configuration
 course_schedule:
   total_sprints: 8
   key_dates:
-    bla3de: "2026-01-12"  # YYYY-MM-DD
-    holidays_and_breaks: 
-      - name: "MLK Day"
-        start_date: "2026-01-19"  # YYYY-MM-DD
-        end_date: "2026-01-19"    # YYYY-MM-DD
+    bla3de: "2026-08-24"  # YYYY-MM-DD; first joint Monday session
+    holidays_and_breaks:
+      - name: "Mass of the Holy Spirit"
+        start_date: "2026-08-21"  # YYYY-MM-DD
+        end_date: "2026-08-21"    # YYYY-MM-DD
+      - name: "Labor Day"
+        start_date: "2026-09-07"
+        end_date: "2026-09-07"
       - name: "Wellness Day"
-        start_date: "2026-02-11"
-        end_date: "2026-02-11"
-      - name: "Spring Break"
-        start_date: "2026-03-09"
-        end_date: "2026-03-13"
-      - name: "Easter Break"
-        start_date: "2026-04-02"
-        end_date: "2026-04-06"
-    initial_evaluation: "2026-03-06"  # YYYY-MM-DD
-    second_evaluation: "2026-05-04"   # YYYY-MM-DD
-    final_evaluation: "2026-05-15"    # YYYY-MM-DD
-    final_exam_date_time: "2026-05-11 16:00"  # YYYY-MM-DD HH:MM
+        start_date: "2026-09-23"
+        end_date: "2026-09-23"
+      - name: "Fall Break"
+        start_date: "2026-10-22"
+        end_date: "2026-10-23"
+      - name: "Thanksgiving Break"
+        start_date: "2026-11-25"
+        end_date: "2026-11-27"
+    initial_evaluation: "2026-10-09"  # YYYY-MM-DD; Friday before Milestone 1 closes
+    second_evaluation: "2026-12-04"   # YYYY-MM-DD; last day of classes
+    final_evaluation: "2026-12-15"    # YYYY-MM-DD; after finals
+    final_exam_date_time: "2026-12-07 16:00"  # YYYY-MM-DD HH:MM
 
 # Sprint Configuration
-# Spring 2026 Sprint Schedule
+# Fall 2026 Sprint Schedule
 # Key dates:
-#   - Classes begin: Jan 12
-#   - MLK Day (no classes): Jan 19
-#   - Wellness Day (no classes): Feb 11
-#   - Mid-terms: Mar 2-6
-#   - Spring Break: Mar 9-13
-#   - Easter Break: Apr 2-6
-#   - Classes end: May 4
-#   - Finals: May 6-12
+#   - Classes begin: Aug 19 (Wed)
+#   - Mass of the Holy Spirit (no classes): Aug 21
+#   - Fall census: Aug 31
+#   - Labor Day (no classes): Sep 7
+#   - Wellness Day (no classes): Sep 23
+#   - Mid-terms: Oct 12-16
+#   - Fall Break (no classes): Oct 22-23
+#   - Thanksgiving Break (no classes): Nov 25-27
+#   - Classes end: Dec 4
+#   - Finals: Dec 7-11
+#
+# Meeting pattern: Monday 4:30-5:50 joint with Capstone (SPEL students serve as
+# Tech Leads on Capstone teams), plus a separate SPEL-only session Wednesday
+# 4:30-5:50. Monday sessions: 14. Wednesday sessions: 14.
+#
+# Sprint boundaries fall on Mondays. Unlike Spring, no sprint is skipped:
+# Fall Break is only two days and falls inside Sprint 4.
 
 sprints:
   - number: 0
     name: "Sprint Zero"
-    start_date: "2026-01-12"
-    end_date: "2026-01-26"
-    # Team assignments and onboarding; MLK Day Jan 19
+    start_date: "2026-08-19"
+    end_date: "2026-08-31"
+    # Team assignments and onboarding; BLA3DE Aug 24; census Aug 31
     weekly_video_1:
       title: ""
       link: ""
@@ -132,8 +143,9 @@ sprints:
     #   link: ""
 
   - number: 1
-    start_date: "2026-01-26"
-    end_date: "2026-02-09"
+    start_date: "2026-08-31"
+    end_date: "2026-09-14"
+    # Labor Day Sep 7 falls within
     # weekly_video_3:
     #   title: ""
     #   link: ""
@@ -142,9 +154,9 @@ sprints:
     #   link: ""
 
   - number: 2
-    start_date: "2026-02-09"
-    end_date: "2026-02-23"
-    # Wellness Day Feb 11
+    start_date: "2026-09-14"
+    end_date: "2026-09-28"
+    # Wellness Day Sep 23 falls within
     # weekly_video_5:
     #   title: ""
     #   link: ""
@@ -153,9 +165,9 @@ sprints:
     #   link: ""
 
   - number: 3
-    start_date: "2026-02-23"
-    end_date: "2026-03-09"
-    # Mid-terms Mar 2-6; ends at Spring Break
+    start_date: "2026-09-28"
+    end_date: "2026-10-12"
+    # Milestone 1 closes; ends as mid-term week begins
     # weekly_video_7:
     #   title: ""
     #   link: ""
@@ -163,45 +175,43 @@ sprints:
     #   title: ""
     #   link: ""
 
-  # Spring Break: Mar 9-13 (no sprint)
-
   - number: 4
-    start_date: "2026-03-16"
-    end_date: "2026-03-30"
-    # First sprint after Spring Break
-    # weekly_video_3:
+    start_date: "2026-10-12"
+    end_date: "2026-10-26"
+    # Mid-terms Oct 12-16; Fall Break Oct 22-23 falls within
+    # weekly_video_9:
     #   title: ""
     #   link: ""
-    # weekly_video_4:
+    # weekly_video_10:
     #   title: ""
     #   link: ""
 
   - number: 5
-    start_date: "2026-03-30"
-    end_date: "2026-04-13"
-    # Easter Break Apr 2-6 falls within
-    # weekly_video_5:
+    start_date: "2026-10-26"
+    end_date: "2026-11-09"
+    # weekly_video_11:
     #   title: ""
     #   link: ""
-    # weekly_video_6:
+    # weekly_video_12:
     #   title: ""
     #   link: ""
 
   - number: 6
-    start_date: "2026-04-13"
-    end_date: "2026-04-27"
-    # weekly_video_7:
+    start_date: "2026-11-09"
+    end_date: "2026-11-23"
+    # Final development sprint
+    # weekly_video_13:
     #   title: ""
     #   link: ""
-    # weekly_video_8:
+    # weekly_video_14:
     #   title: ""
     #   link: ""
 
   - number: 7
     name: "Launch"
-    start_date: "2026-04-27"
-    end_date: "2026-05-12"
-    # Classes end May 4; Finals May 6-12
+    start_date: "2026-11-23"
+    end_date: "2026-12-07"
+    # Thanksgiving Nov 25-27; classes end Dec 4; Launch Day Dec 7
 
 iterations:
   - number: 1
@@ -213,6 +223,6 @@ iterations:
 
 # Launch Configuration
 launch:
-  dates: "2026-05-11"  
-  # Final exam scheduled Monday, May 11, 4-5:50 p.m.
+  dates: "2026-12-07"
+  # Final exam scheduled Monday, Dec 7, 4-5:50 p.m.
   # video_link: ""
