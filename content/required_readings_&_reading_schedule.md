@@ -5,11 +5,11 @@ published: true
 front_page: false
 ---
 
-# DOSSP Reading Schedule - Spring 2026
+# SPEL Reading Schedule - Fall 2026
 
 ## Course Overview
 
-The Development of Open Source Software Products (DOSSP) brings together students at different points in their leadership journey. This reading schedule is designed so that **all students engage with common anchor readings** while pursuing differentiated depth through parallel book tracks.
+Software Product Engineering Leadership (SPEL) brings together students at different points in their leadership journey. This reading schedule is designed so that **all students engage with common anchor readings** while pursuing differentiated depth through parallel book tracks.
 
 ### How This Works
 
@@ -18,7 +18,7 @@ Each week includes:
 2. **Book Track** (Choose your path): Longer readings from your selected book track that provide deeper exploration.
 
 **Track Selection:**
-- **Foundations Track**: For first-time DOSSP students. Builds core leadership vocabulary and mental models.
+- **Foundations Track**: For first-time SPEL students. Builds core leadership vocabulary and mental models.
 - **Advanced Track**: For returning students. Explores the same themes with greater abstraction and nuance.
 
 Both tracks cover the same four themes on the same weeks, enabling cross-track discussion while respecting different experience levels.
@@ -72,22 +72,22 @@ These readings reflect professional expectations for technical leaders. The load
 
 | Week | Date | Theme | Anchor Reading (All) | Foundations Track | Advanced Track |
 |------|------|-------|---------------------|-------------------|----------------|
-| 1 | Jan 26 | Developing | "How to Build a Thriving Open Source Community" by Jono Bacon | Ideal Team Player p. 153-173 (20p) | Debugging Teams pp. 5-53 (48p) |
-| 2 | Feb 2 | Open Source | "Participating In Open Source Communities" (TODO Group) | Leadership & Strategy readings | Bacon: Art of Community Ch. 1-2 (40p) |
-| 3 | Feb 9 | Software | "How To Be A Great Programmer" Dave Farley video (32min) | Quality readings (30p) | Hamming: Intro, Ch. 1, 2, 4, 5 (61p) |
-| 4 | Feb 16 | Products | "Engineering for Software in 8 Minutes" Dave Farley (8min) | From Pessimism to Promise p. ix-62 (67p) | Torres: Intro, Part 1 (36p) |
-| 5 | Feb 23 | Developing | "Seth Godin on building a culture of impact" video (42min) | Ideal Team Player p. 173-215 (42p) | Debugging Teams pp. 54-110 (56p) |
-| 6 | Mar 2 | Open Source | "Building Leadership in an Open Source Community" (TODO Group) | Innovation, Adaptation, Recovery (Watts) | Bacon: Ch. 3-4 + Wade: "Attracting Users" (60p) |
-| **7** | **Mar 9** | **Spring Break** | **No readings** | — | — |
-| 8 | Mar 16 | Software | "Self Testing Code" by Martin Fowler + 1 selection from martinfowler.com/testing | Architecture readings (11p + 53min video) | Hamming: Ch 8, 10, 13, 18, 19 (57p) |
-| 9 | Mar 23 | Products | "What Software Architecture Should Look Like" Dave Farley video (45min) | From Pessimism to Promise p. 63-121 (58p) | Torres: Ch 3-7 (70p) |
-| 10 | Mar 30 | Developing | "Yochai Benkler: After Selfishness" video (40min) | Servant Leadership p. 1-61 (61p) | Hamming: Ch 25-29 (50p) |
-| 11 | Apr 6 | Open Source | Cathedral and the Bazaar p. 1-18 (Raymond) | Cathedral and the Bazaar p. 67-113 (46p) | Bacon: Ch. 8-9 + Wade: "Measuring Success" (64p) |
-| 12 | Apr 13 | Software | "Threat Modeling Manifesto" | Security readings (37p) | Torres: Ch 8-10 (45p) |
-| 13 | Apr 20 | Products | "Bounded Contexts" Eric Evans video (35min) | Build p. xi-86 (94p) | Torres: Ch 11-15 (48p) |
-| 14 | Apr 27 | Developing | "What Would Open Source Look Like If It Were Healthy?" (Harihareswara) | Servant Leadership p. 304-360 (56p) | Wade: "Community 101" + reflection integration |
-| 15 | May 4 | Wrap-up | No new readings—focus on final deliverables | — | — |
-| 16 | May 11 | Finals | No readings | — | — |
+| 1 | Aug 24 | Developing | "How to Build a Thriving Open Source Community" by Jono Bacon | Ideal Team Player p. 153-173 (20p) | Debugging Teams pp. 5-53 (48p) |
+| 2 | Aug 31 | Open Source | "Participating In Open Source Communities" (TODO Group) | Leadership & Strategy readings | Bacon: Art of Community Ch. 1-2 (40p) |
+| **3** | **Sep 7** | **Labor Day** | **No readings** | — | — |
+| 4 | Sep 14 | Software | "How To Be A Great Programmer" Dave Farley video (32min) | Quality readings (30p) | Hamming: Intro, Ch. 1, 2, 4, 5 (61p) |
+| 5 | Sep 21 | Products | "Engineering for Software in 8 Minutes" Dave Farley (8min) | From Pessimism to Promise p. ix-62 (67p) | Torres: Intro, Part 1 (36p) |
+| 6 | Sep 28 | Developing | "Seth Godin on building a culture of impact" video (42min) | Ideal Team Player p. 173-215 (42p) | Debugging Teams pp. 54-110 (56p) |
+| 7 | Oct 5 | Open Source | "Building Leadership in an Open Source Community" (TODO Group) | Innovation, Adaptation, Recovery (Watts) | Bacon: Ch. 3-4 + Wade: "Attracting Users" (60p) |
+| 8 | Oct 12 | Software | "Self Testing Code" by Martin Fowler + 1 selection from martinfowler.com/testing | Architecture readings (11p + 53min video) | Hamming: Ch 8, 10, 13, 18, 19 (57p) |
+| 9 | Oct 19 | Products | "What Software Architecture Should Look Like" Dave Farley video (45min) | From Pessimism to Promise p. 63-121 (58p) | Torres: Ch 3-7 (70p) |
+| 10 | Oct 26 | Developing | "Yochai Benkler: After Selfishness" video (40min) | Servant Leadership p. 1-61 (61p) | Hamming: Ch 25-29 (50p) |
+| 11 | Nov 2 | Open Source | Cathedral and the Bazaar p. 1-18 (Raymond) | Cathedral and the Bazaar p. 67-113 (46p) | Bacon: Ch. 8-9 + Wade: "Measuring Success" (64p) |
+| 12 | Nov 9 | Software | "Threat Modeling Manifesto" | Security readings (37p) | Torres: Ch 8-10 (45p) |
+| 13 | Nov 16 | Products | "Bounded Contexts" Eric Evans video (35min) | Build p. xi-86 (94p) | Torres: Ch 11-15 (48p) |
+| 14 | Nov 23 | Developing | "What Would Open Source Look Like If It Were Healthy?" (Harihareswara) | Servant Leadership p. 304-360 (56p) | Wade: "Community 101" + reflection integration |
+| 15 | Nov 30 | Wrap-up | No new readings—focus on final deliverables | — | — |
+| 16 | Dec 7 | Launch Day | No readings | — | — |
 
 **Note:** Week 13 (Foundations Track) has a heavy load at 94 pages. Consider starting Build earlier or reading strategically.
 

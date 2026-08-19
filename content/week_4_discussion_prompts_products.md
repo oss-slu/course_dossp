@@ -164,6 +164,6 @@ All leads watched the Farley video (8 min). Foundations leads read Arora; Advanc
 
 ### After the Session
 
-- Share the full prompt set in the DOSSP channel for async engagement.
+- Share the full prompt set in the SPEL channel for async engagement.
 - If commitments were made (especially around Prompt 4), note them and plan to revisit in Week 8.
 - If a particular prompt generated energy or conflict, consider building on it in a future week's warm-up.
