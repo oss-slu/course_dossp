@@ -99,3 +99,9 @@ course-info.yaml  Per-instance course configuration
 If you spot an error or have a suggestion for improving course materials, feel free to submit a pull request.
 
 For course administration (creating new instances, automation tooling), see [ADMINISTERING.md](ADMINISTERING.md).
+
+---
+
+[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+This work © 2026 by [Open Source with SLU](https://oss-slu.github.io), the open source program office of Saint Louis University, is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
