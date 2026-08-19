@@ -1,7 +1,7 @@
 ---
 title: Performance Evaluation 1
 points_possible: 90.0
-due_at: '2026-03-06T21:00:00Z'
+due_at: '2026-10-09T21:00:00Z'
 submission_types:
 - none
 allowed_extensions: []

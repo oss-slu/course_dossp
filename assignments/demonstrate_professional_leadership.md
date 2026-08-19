@@ -1,7 +1,7 @@
 ---
 title: Demonstrate Professional Leadership
 points_possible: 10.0
-due_at: '2026-05-04T21:00:00Z'
+due_at: '2026-12-04T22:00:00Z'
 submission_types:
 - online_url
 allowed_extensions: []

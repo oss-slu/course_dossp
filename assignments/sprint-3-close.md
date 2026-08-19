@@ -1,7 +1,7 @@
 ---
 title: Sprint 3 Close
 points_possible: 0
-due_at: '2026-03-09T21:00:00Z'
+due_at: '2026-10-12T21:00:00Z'
 submission_types:
 - none
 published: true

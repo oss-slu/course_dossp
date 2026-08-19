@@ -1,7 +1,7 @@
 ---
 title: 'Team Metrics Report 3'
 points_possible: 1.0
-due_at: '2026-04-27T21:00:00Z'
+due_at: '2026-11-23T22:00:00Z'
 submission_types:
 - online_upload
 allowed_extensions:

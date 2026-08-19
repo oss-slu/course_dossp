@@ -1,7 +1,7 @@
 ---
 title: Checkpoint Artifact - Choice 4
 points_possible: 1.0
-due_at: '2026-04-27T21:00:00Z' # Target Sprint 6
+due_at: '2026-11-23T22:00:00Z' # Target Sprint 6
 submission_types:
 - online_upload
 allowed_extensions:

@@ -1,7 +1,7 @@
 ---
 title: Checkpoint 2 - Team Outing
 points_possible: 1.0
-due_at: '2026-02-16T21:00:00Z'
+due_at: '2026-09-21T21:00:00Z'
 submission_types:
 - online_upload
 allowed_extensions:

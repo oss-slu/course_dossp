@@ -1,7 +1,7 @@
 ---
 title: Sprint 1 Close
 points_possible: 0
-due_at: '2026-02-09T21:00:00Z'
+due_at: '2026-09-14T21:00:00Z'
 submission_types:
 - none
 published: true

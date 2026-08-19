@@ -6,7 +6,7 @@ modules:
         file: syllabus.pdf
       - name: Access Checklist
         type: content
-        due_date: '2026-01-19T21:00:00Z'
+        due_date: '2026-08-24T21:00:00Z'
         content: access_checklist.md
       - name: Required Readings
         type: content
@@ -18,7 +18,7 @@ modules:
       #   content: checkpoint_schedule.md
       - name: Demonstrate Professional Leadership
         type: assignment
-        due_date: '2026-05-04T21:00:00Z'
+        due_date: '2026-12-04T22:00:00Z'
         assignment: demonstrate_professional_leadership
   - name: Iteration Start
     items:
@@ -28,7 +28,7 @@ modules:
       #   content: product_abstracts.md
       - name: Iteration Starters
         type: assignment
-        due_date: '2026-01-26T21:00:00Z'
+        due_date: '2026-08-31T21:00:00Z'
         assignment: good-iteration_starters
       # TODO: Add BLA3DE presentation file
       # - name: BLA3DE Presentation
@@ -40,7 +40,7 @@ modules:
       # TODO: Create scheduling_1on1_meetings.md content page
       # - name: Scheduling 1:1 Meetings
       #   type: content
-      #   due_date: '2026-02-02T21:00:00Z'
+      #   due_date: '2026-09-08T21:00:00Z'
       #   content: scheduling_1on1_meetings.md
   - name: Additional Resources
     items:
@@ -95,12 +95,12 @@ modules:
       - name: Sprint Structure & Expectations
         type: content
         content: sprint_structure_expectations.md
-      - name: "Sprint 0: Jan 13 - Jan 26"
+      - name: "Sprint 0: Aug 19 - Aug 31"
         type: label
         description: >
           Sprint 0 includes the BLA3DE activity and developer onboarding. It focuses on team formation, project setup, and initial planning to prepare for development work in subsequent sprints.
       # Sprint 1
-      - name: "Sprint 1: Jan 27 - Feb 9"
+      - name: "Sprint 1: Sep 1 - Sep 14"
         type: label
       # - name: "{ weekly_video_1_title }"
       #   type: link
@@ -110,10 +110,10 @@ modules:
       #   link: { weekly_video_2_link }
       - name: Sprint 1 Close
         type: assignment
-        due_date: '2026-02-09T21:00:00Z'
+        due_date: '2026-09-14T21:00:00Z'
         assignment: sprint-1-close
       # Sprint 2
-      - name: "Sprint 2: Feb 10 - Feb 23"
+      - name: "Sprint 2: Sep 15 - Sep 28"
         type: label
       # - name: "{ weekly_video_3_title }"
       #   type: link
@@ -123,7 +123,7 @@ modules:
       #   link: { weekly_video_4_link }
       - name: Sprint 2 Close
         type: assignment
-        due_date: '2026-02-23T21:00:00Z'
+        due_date: '2026-09-28T21:00:00Z'
         assignment: sprint-2-close
       # Retro
       - name: Reflection & Feedback
@@ -132,10 +132,10 @@ modules:
         type: label
       - name: Client Demo & Feedback 1
         type: assignment
-        due_date: '2026-02-23T21:00:00Z'
+        due_date: '2026-09-28T21:00:00Z'
         assignment: client_demo_feedback_1
       # Sprint 3
-      - name: "Sprint 3: Feb 24 - Mar 9"
+      - name: "Sprint 3: Sep 29 - Oct 12"
         type: label
       # - name: "{ weekly_video_5_title }"
       #   type: link
@@ -145,7 +145,7 @@ modules:
       #   link: { weekly_video_6_link }
       - name: Sprint 3 Close
         type: assignment
-        due_date: '2026-03-09T21:00:00Z'
+        due_date: '2026-10-12T21:00:00Z'
         assignment: sprint-3-close
       # Iteration 1 Ends
       - name: Iteration 1 Ends
@@ -154,11 +154,11 @@ modules:
         type: label
       - name: Initial Performance Evaluation
         type: assignment
-        due_date: '2026-03-06T21:00:00Z'
+        due_date: '2026-10-09T21:00:00Z'
         assignment: reflect-performance_evaluation_1
       
       # Sprint 4
-      - name: "Sprint 4: Mar 16 - Mar 30"
+      - name: "Sprint 4: Oct 13 - Oct 26"
         type: label
       # - name: "{ weekly_video_7_title }"
       #   type: link
@@ -168,7 +168,7 @@ modules:
       #   link: { weekly_video_8_link }
       - name: Sprint 4 Close
         type: assignment
-        due_date: '2026-03-30T21:00:00Z'
+        due_date: '2026-10-26T21:00:00Z'
         assignment: sprint-4-close
       # Retro
       - name: Reflection & Feedback
@@ -177,11 +177,11 @@ modules:
         type: label
       - name: Client Demo & Feedback 2
         type: assignment
-        due_date: '2026-03-30T21:00:00Z'
+        due_date: '2026-10-26T21:00:00Z'
         assignment: client_demo_feedback_2
 
       # Sprint 5
-      - name: "Sprint 5: Mar 31 - Apr 13"
+      - name: "Sprint 5: Oct 27 - Nov 9"
         type: label
       # - name: "{ weekly_video_9_title }"
       #   type: link
@@ -191,7 +191,7 @@ modules:
       #   link: { weekly_video_10_link }
       - name: Sprint 5 Close
         type: assignment
-        due_date: '2026-04-13T21:00:00Z'
+        due_date: '2026-11-09T22:00:00Z'
         assignment: sprint-5-close
       - name: Presentation Draft (Developer Responsibility)
         type: label
@@ -200,7 +200,7 @@ modules:
           Tech Leads should coordinate with their team to ensure preparation is on track.
           See the Capstone course for the full assignment details.
       # Sprint 6
-      - name: "Sprint 6: Apr 14 - Apr 27"
+      - name: "Sprint 6: Nov 10 - Nov 23"
         type: label
       # - name: "{ weekly_video_11_title }"
       #   type: link
@@ -210,7 +210,7 @@ modules:
       #   link: { weekly_video_12_link }
       - name: Sprint 6 Close
         type: assignment
-        due_date: '2026-04-27T21:00:00Z'
+        due_date: '2026-11-23T22:00:00Z'
         assignment: sprint-6-close
       # Iteration 2 Ends
       - name: Iteration 2 Ends
@@ -219,7 +219,7 @@ modules:
         type: label
       - name: Second Performance Evaluation
         type: assignment
-        due_date: '2026-05-04T21:00:00Z'
+        due_date: '2026-12-04T22:00:00Z'
         assignment: reflect-performance_evaluation_2
       - name: Launch & Reflection
         type: label
@@ -242,31 +242,31 @@ modules:
         content: exception_reports.md
       - name: Milestone 1
         type: assignment
-        due_date: '2026-01-26'
+        due_date: '2026-08-31'
         assignment: good-milestone-1
       - name: Milestone 2
         type: assignment
-        due_date: '2026-03-16'
+        due_date: '2026-10-12'
         assignment: good-milestone-2
       - name: Team OKRs
         type: assignment
-        due_date: '2026-01-26'
+        due_date: '2026-08-31'
         assignment: 'good-okr'
       - name: Facilitate Team Retrospectives
         type: assignment
-        due_date: '2026-02-24T06:00:00Z'
+        due_date: '2026-09-29T05:00:00Z'
         assignment: good-retrospective_facilitation
       - name: 'Team Metrics Report #1'
         type: assignment
-        due_date: '2026-02-23T21:00:00Z'
+        due_date: '2026-09-28T21:00:00Z'
         assignment: good-team_metrics_report_1
       - name: 'Checkpoint - Team Metrics Report #2'
         type: assignment
-        due_date: '2026-04-06T21:00:00Z'
+        due_date: '2026-11-02T22:00:00Z'
         assignment: good-team_metrics_report_2
       - name: 'Checkpoint - Team Metrics Report #3'
         type: assignment
-        due_date: '2026-04-27T21:00:00Z'
+        due_date: '2026-11-23T22:00:00Z'
         assignment: good-team_metrics_report_3
 
   - name: Checkpoints
@@ -293,32 +293,32 @@ modules:
         type: label
       - name: Checkpoint - Team Working Agreement
         type: assignment
-        due_date: '2026-02-02T21:00:00Z'
+        due_date: '2026-09-08T21:00:00Z'
         assignment: checkpoint_artifact-working_agreements
       - name: Checkpoint - Artifact Choice 1
         type: assignment
-        due_date: '2026-03-09T21:00:00Z'
+        due_date: '2026-10-12T21:00:00Z'
         assignment: checkpoint_artifact-choice-1
       - name: Checkpoint - Team Outing
         type: assignment
-        due_date: '2026-02-16T21:00:00Z'
+        due_date: '2026-09-21T21:00:00Z'
         assignment: checkpoint_artifact-team_outing
       - name: Checkpoint - Artifact Choice 2
         type: assignment
-        due_date: '2026-03-30T21:00:00Z'
+        due_date: '2026-10-26T21:00:00Z'
         assignment: checkpoint_artifact-choice-2
       - name: Checkpoint - Artifact Choice 3
         type: assignment
-        due_date: '2026-04-13T21:00:00Z'
+        due_date: '2026-11-09T22:00:00Z'
         assignment: checkpoint_artifact-choice-3
       - name: Checkpoint - Artifact Choice 4
         type: assignment
-        due_date: '2026-04-27T21:00:00Z'
+        due_date: '2026-11-23T22:00:00Z'
         assignment: checkpoint_artifact-choice-4
 
   - name: Launch & Reflection
     items:
-      - name: "Launch: Apr 28 - May 11"
+      - name: "Launch: Nov 24 - Dec 7"
         type: label
       # TODO: Add launch video URL when available
       # - name: Launch Video
@@ -341,33 +341,33 @@ modules:
         type: label
       - name: Team Presentation
         type: assignment
-        due_date: '2026-04-30T16:00:00'
+        due_date: '2026-12-02T22:00:00Z'
         assignment: final-team_presentation
       - name: Working Software Submission
         type: assignment
-        due_date: '2026-05-11T21:00:00Z'
+        due_date: '2026-12-07T22:00:00Z'
         assignment: final-working_software
       - name: Product Strategy Final Document
         type: assignment
-        due_date: '2026-05-11T21:00:00Z'
+        due_date: '2026-12-07T22:00:00Z'
         assignment: final-product_strategy
       - name: Community Strategy Document
         type: assignment
-        due_date: '2026-05-11T21:00:00Z'
+        due_date: '2026-12-07T22:00:00Z'
         assignment: final-community_strategy
       - name: Demonstrate Professional Leadership
         type: assignment
-        due_date: '2026-05-04T21:00:00Z'
+        due_date: '2026-12-04T22:00:00Z'
         assignment: demonstrate_professional_leadership
 
       - name: Reflections & Evaluations
         type: label
       - name: Performance Evaluation - Final Review
         type: assignment
-        due_date: '2026-05-15T21:00:00Z'
+        due_date: '2026-12-15T22:00:00Z'
         assignment: final_performance_evaluation
       # TODO: Add course reflection survey URL when available
       # - name: Course Reflection Survey
       #   type: link
-      #   due_date: '2026-05-11T21:00:00Z'
+      #   due_date: '2026-12-07T22:00:00Z'
       #   link: course_reflection_survey

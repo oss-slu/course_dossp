@@ -1,7 +1,7 @@
 ---
 title: Sprint 2 Close
 points_possible: 0
-due_at: '2026-02-23T21:00:00Z'
+due_at: '2026-09-28T21:00:00Z'
 submission_types:
 - none
 published: true

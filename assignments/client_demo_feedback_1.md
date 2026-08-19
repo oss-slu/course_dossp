@@ -1,7 +1,7 @@
 ---
 title: Client Demo & Feedback 1
 points_possible: 1.0
-due_at: '2026-02-23T21:00:00Z'
+due_at: '2026-09-28T21:00:00Z'
 submission_types:
 - online_upload
 - online_url

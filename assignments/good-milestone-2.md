@@ -1,7 +1,7 @@
 ---
 title: Milestone 2
 points_possible: 1.0
-due_at: '2026-03-16T21:00:00Z'
+due_at: '2026-10-12T21:00:00Z'
 submission_types:
 - online_text_entry
 - online_url
