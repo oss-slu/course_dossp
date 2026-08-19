@@ -3,7 +3,7 @@ modules:
     items:
       - name: Syllabus
         type: file
-        file: syllabus.pdf
+        file: syllabus_271.pdf
       - name: Access Checklist
         type: content
         due_date: '2026-08-24T21:00:00Z'
