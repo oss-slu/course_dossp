@@ -18,112 +18,103 @@ published: true
 assignment_group: "Final Deliverables"
 grading_type: points
 ---
-**Team Presentation**
+
 **Due:** End of Iteration (Sprint 7/Launch Sprint)
-**Focus:** Final Stakeholder Presentation
+**Focus:** Final Stakeholder Presentations
 
 ## Overview
 
-Your team presentation is a critical iteration deliverable that demonstrates your product's value, showcases your team's accomplishments, and makes the case for continued development investment. This boardroom-style presentation should be polished, professional, and persuasive.
+Your team's end-of-semester presentations demonstrate your product's value, showcase your accomplishments, and make the case for continued investment.
+
 For **Developers**, this presentation serves as your final assessment for the course, demonstrating your ability to communicate technical work to diverse audiences and collaborate on professional deliverables.
+
 For **Tech Leads**, this presentation is a key iteration deliverable that showcases your leadership in guiding your team to create meaningful software while developing your team members' professional capabilities.
 
-## Context
+Every semester ends with two presentation events:
 
-You are presenting to a board of decision-makers who will determine whether to invest in another iteration of development. Your audience includes:
-- Your client and their supervisor
-- Potential investors or funding decision-makers
-- Technical and non-technical stakeholders
-- Program leadership and faculty
-Your presentation must convince this audience that your product creates genuine value and that continued investment will yield meaningful returns.
+1. **Public Showcase** — a wider-audience event that serves as both public exposure and a dress rehearsal
+2. **Launch Day** — the culminating assessment during the final exam period
 
-## Requirements
+This assignment covers **both** events.
 
-### Presentation Content
+## The Two-Event Arc
 
-Your presentation should be **10-30 minutes** and delivered by all team members who are currently students. Include:
+### Public Showcase
 
-## 1. Problem and Value Proposition
+The format varies by semester (your instructor confirms at the start of the semester):
 
-- What problem does your product solve?
-- Who experiences this problem and why does it matter?
-- How does your product create value for users?
+- **Spring:** SSE Undergraduate Showcase (poster session) — see [Poster Session Presentation](../content/poster_session_presentation.md)
+- **Fall:** Boardroom Presentation (slide deck + recorded video) — see [Slide Deck Presentation](../content/slide_deck_presentation.md)
 
-## 2. Product Demonstration
+This event reaches a wider audience — faculty across the college, industry guests, fellow students, and your client. It is also your dress rehearsal: use the feedback and experience to sharpen your presentation for Launch Day.
 
-- What is your product and how does it work?
-- Show your product in action (live demo, video, or screenshots)
-- Make the user experience tangible and compelling
+### Launch Day
 
-## 3. Work Accomplished
+Happens every semester during the scheduled final exam period. This is the culminating assessment event and carries more weight for your final grade.
 
-- What did your team build this iteration?
-- What technical challenges did you overcome?
-- What value does this work deliver to users?
+- **Audience:** Industry Fellows, CS Industry Advisory Board, potentially all CS faculty, program leadership
+- **Format:** All teams stationed at tables in the classroom meeting space
+- **Fully synchronous** — all teams present simultaneously
+- **Re-present your work:** speak from a PowerPoint on the fly, do live demos, give freeform pitches in front of your poster — whatever combination best represents your product
+- This is conversational and adaptive, not a formal lecture
 
-## 4. Development Process and Technical Decisions
+Between the Public Showcase and Launch Day, incorporate feedback from the first event and complete your final push of product work. Adjust your presentation accordingly.
 
-- How did your team work together?
-- What key technical decisions did you make and why?
-- Explain complex technical choices in ways non-technical audiences can understand and appreciate
+## Core Expectations (Both Events)
 
-## 5. Future Vision
+### Live Demo
 
-- What work remains to realize the product's full potential?
-- What would another iteration of development enable?
-- What's the roadmap for continued evolution?
+- Every team must demonstrate working software
+- Focus on the work your team accomplished this semester
+- Have a fallback plan (screenshots, recorded video) if live demo fails
 
-## 6. Investment Case
+### Pitch Skeleton
 
-- Why should stakeholders continue investing in this product?
-- What makes this product sustainable and valuable long-term?
-- What has your team demonstrated about your ability to deliver?
-
-### Presentation Quality
-
-Your presentation should be:
-- **Professional:** Polished slides, smooth delivery, coordinated transitions
-- **Accessible:** Technical concepts explained for non-technical audiences
-- **Engaging:** Compelling narrative that maintains audience interest
-- **Evidence-based:** Claims supported by demos, screenshots, data, or user feedback
-- **Cohesive:** Unified team narrative, not disconnected individual sections
-- **Timed appropriately:** Within the 10-30 minute range with room for brief Q&A
+- **Not a script** — a flexible framework for discussing your product
+- Allows the team to talk about the product and project with visitors in any direction the conversation takes
+- Should cover: problem & value proposition, what you built, why it matters, what's next
+- All team members should be able to deliver the full pitch
 
 ### Team Participation
 
-- Every team member who is currently a student must have a speaking role
-- Transitions between speakers should be smooth and practiced
-- The presentation should feel like a unified team effort, not individual reports
+- All team members present and able to pitch
+- Every student should be able to give the full pitch — not just introduce themselves
+- Presentation should feel like a unified team effort
 
 ## Deliverables
 
-- **Video recording** of your team presentation (10-30 minutes)
-- **Slide deck** used in the presentation
-- **Brief reflection** (1 paragraph per team member) on the presentation experience and what you learned
+Format-specific deliverables vary by semester — see the linked content page for your semester's Public Showcase format:
+
+- **Spring:** [Poster Session Presentation deliverables](../content/poster_session_presentation.md#deliverables)
+- **Fall:** [Slide Deck Presentation deliverables](../content/slide_deck_presentation.md#deliverables)
+
+Common to both semesters:
+
+- Brief reflection (1 paragraph per team member) on the presentation experience and what you learned
 
 ## Evaluation Criteria
 
 ### For Developers (Final Assessment)
 
-## Communication and Presentation (40%)
+**Communication and Presentation (40%)**
 
 - Clear explanation of technical work for non-technical audiences
 - Professional delivery and engagement with material
 - Effective use of visuals and demonstrations
 
-## Collaboration and Coordination (30%)
+**Collaboration and Coordination (30%)**
 
 - Smooth transitions and team cohesion
 - Balanced participation across team members
 - Evidence of thoughtful preparation and practice
 
-## Technical Understanding (20%)
+**Technical Understanding (20%)**
 
 - Accurate representation of technical decisions and trade-offs
 - Appropriate level of technical detail for audience
 - Connection between technical choices and user value
 
-## Professional Quality (10%)
+**Professional Quality (10%)**
 
 - Polished presentation materials
 - Professional demeanor and delivery
@@ -131,50 +122,47 @@ Your presentation should be:
 
 ### For Tech Leads (Key Deliverable)
 
-## Leadership and Coordination (30%)
+**Leadership and Coordination (30%)**
 
 - Evidence of guiding team to create cohesive narrative
 - Effective coordination of team participation
 - Development of team members' presentation capabilities
 
-## Strategic Communication (30%)
+**Strategic Communication (30%)**
 
 - Clear articulation of product vision and value
 - Effective synthesis of Product Strategy into presentation
 - Compelling investment case for continued development
 
-## Technical-Business Translation (20%)
+**Technical-Business Translation (20%)**
 
 - Technical decisions explained in terms of user and business value
 - Appropriate balance of technical depth and accessibility
 - Connection between development process and outcomes
 
-## Stakeholder Management (10%)
+**Stakeholder Management (10%)**
 
 - Presentation addresses stakeholder needs and concerns
 - Evidence of client alignment and preparation
 - Professional handling of questions and discussion
 
-## Professional Quality (10%)
+**Professional Quality (10%)**
 
-- Polished, boardroom-ready presentation
+- Polished, presentation-ready materials
 - Effective use of demos, visuals, and evidence
 - Appropriate time management and pacing
 
 ## Notes
 
-- **Build on your draft:** Incorporate feedback from your trial run
+- **Build on your draft:** Incorporate feedback from your checkpoint and Public Showcase into your Launch Day presentation
 - **Practice together:** The best presentations show evidence of rehearsal and coordination
 - **Show, don't just tell:** Demos and screenshots make your work tangible
-- **Know your audience:** Board members need different explanations than developers
+- **Know your audience:** Different audiences need different explanations
 - **Connect to strategy:** Your Product Strategy should inform your narrative
 - **Handle questions gracefully:** Prepare for likely questions, admit what you don't know
-- **Technical difficulties happen:** Have backup plans (screenshots if live demo fails, etc.)
+- **Technical difficulties happen:** Have backup plans
 - **This represents your semester:** Make it count
 
 ## Submission Guidelines
 
-- Submit your video recording via Canvas (or provide a link if file size is too large)
-- Include your slide deck as a separate file
-- Submit individual reflections from each team member
-- Ensure video quality is sufficient for evaluation (clear audio, visible slides)
+Format-specific deliverables depend on your semester — see the linked content page for details. Submit via Canvas.
