@@ -37,6 +37,10 @@ modules:
       - name: BLA3DE
         type: file
         file: BLA3DE.pdf
+      - name: "Onboarding: Commit Identity"
+        type: assignment
+        due_date: '2026-09-30T21:00:00Z'
+        assignment: onboarding-commit_identity
       # TODO: Create scheduling_1on1_meetings.md content page
       # - name: Scheduling 1:1 Meetings
       #   type: content
