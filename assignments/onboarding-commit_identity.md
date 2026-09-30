@@ -29,9 +29,41 @@ It is also easier to fix early. Attribution can usually be repaired later by add
 
 ## Part 1: Your own identity
 
-Complete the developer version of this activity, **Onboarding: Commit Identity** in your Capstone course. It walks through checking your current configuration, choosing an address, configuring git, and verifying a commit attributes correctly. It also covers the background on how git and GitHub relate, the tradeoffs between your noreply address and your SLU address, and how to repair earlier commits.
+Do this first. Your own commits need to attribute before you can credibly ask a teammate to fix theirs. It takes about ten minutes.
 
-Do that first. The rest of this assignment assumes you have done it.
+**1. See what git is set to right now.**
+
+```
+git config user.name
+git config user.email
+```
+
+An address ending in `.local` was invented by git from your computer's hostname and belongs to no account anywhere.
+
+**2. Choose your address.**
+
+The recommended choice is your GitHub noreply address. Find it at [github.com/settings/emails](https://github.com/settings/emails), under "Keep my email addresses private." It looks like `12345678+yourusername@users.noreply.github.com`, and it attributes by definition because it belongs to your account.
+
+Your SLU address or a personal address also work, but you have to add the address to your GitHub account on that same page first. It then appears in every commit permanently. A commit address is not retractable, so consider what you are willing to have public for good.
+
+**3. Configure git.**
+
+```
+git config --global user.name "Your Name"
+git config --global user.email "your-chosen-address"
+```
+
+The name is whatever you want associated with your professional work. It does not need to match your GitHub username and has no effect on attribution. Only the address does.
+
+**4. Verify against a real commit.**
+
+Make a commit that is worth having. Adding yourself to your repository's `CONTRIBUTORS.md` is a good one, since Part 2 asks you to make sure that file exists anyway. Push it, find the commit on GitHub, and confirm your avatar appears and your username links to your profile. If it does not, the address in the commit is not registered to your account.
+
+**5. Repeat on every machine you commit from.**
+
+Git reads the configuration fresh on every commit. A lab computer, a personal laptop, and a desktop at home are three separate configurations, as is any machine you start using later in the term.
+
+The developer version of this activity covers the same ground in more depth, along with how git and GitHub actually relate, the full tradeoffs between address options, how to repair earlier commits, and a bonus section on profile polish and commit signing. It is public, so you can read it whether or not you are enrolled in Capstone: [checkpoint-commit_identity.md](https://github.com/oss-slu/course_capstone/blob/main/assignments/checkpoint-commit_identity.md). You do not need it to finish this assignment, but it is what your developers are working from.
 
 ## Part 2: Audit your team
 
@@ -55,7 +87,7 @@ You are looking for two cases. Someone whose commits attach to no account, and s
 
 **3. Tell them, and help them fix it.**
 
-Point them at the developer assignment. For an address that is real but unregistered, adding it to their GitHub account repairs the history retroactively and they do not need access to that mailbox. For an address that is not real, the history cannot be repaired and we will record the work directly instead.
+Point them at the [developer assignment](https://github.com/oss-slu/course_capstone/blob/main/assignments/checkpoint-commit_identity.md), or walk them through the steps in Part 1. For an address that is real but unregistered, adding it to their GitHub account repairs the history retroactively and they do not need access to that mailbox. For an address that is not real, the history cannot be repaired and we will record the work directly instead.
 
 This is a normal thing to raise, not a criticism. Most people have never been told any of this.
 
