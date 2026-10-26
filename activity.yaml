@@ -1,0 +1,197 @@
+# Fall 2026 activity configuration: SPEL (tech leads).
+#
+# Created 2026-10-26 so the feedback phase can run for the tech lead half of
+# the codehort. `provision_manifest.yaml` is Spring 2026 (course 89519);
+# Fall 2026 is course 97306.
+#
+# SPEL was formerly DOSSP, which is why the directory is named course_dossp.
+
+activity:
+  kind: course
+  title: "Developing Open Source Software Products"
+  term: "Fall 2026"
+  section: "01"
+  cross_listed:
+    - "CSCI-5930-01"
+
+# Only the tech_lead role is declared. Developers are assessed in the
+# capstone; a tech lead who also enrols there appears on both rosters, which
+# is correct -- the same person holds two roles and each course assesses its
+# own.
+roles:
+  instructor:
+    permissions: {lms: admin, vcs: admin, chat: admin, projects: admin}
+  tech_lead:
+    permissions: {lms: read, vcs: write, chat: write, projects: write}
+
+providers:
+  # Verified against Canvas: 97306 is the Fall 2026 SPEL section.
+  lms:
+    type: canvas
+    course_id: 97306
+
+  # The same product repositories the capstone collects from. A tech lead's
+  # work is in their team's repositories, not in a course repository of their
+  # own, so the scope is identical rather than parallel.
+  vcs:
+    type: github
+    organization: oss-slu
+    repositories:
+      - DigitalBoneBox
+      - GradEval360
+      - LRDA_Documentation
+      - PilotDataSynchronization
+      - SpeechTranscription
+      - TULIP
+      - TheHealthApp
+      - core_desk
+      - cv_zebrafish
+      - dads
+      - enroll-dash
+      - hpc_rag_agent_chatbot
+      - k8s-dev-cluster
+      - k8s-manifests
+      - lrda_mobile
+      - lrda_website
+      - material-derailleur
+      - mechatronics-vr
+      - mithridatium
+      - oss-orb
+      - oss_cicd_automation
+      - oss_cybersecurity
+      - oss_dev_analytics
+      - oss_infra_ops
+      - pao_surgery_simulator
+      - repoexplorer
+      - rerum-playground
+      - rerum_server_nodejs
+      - shelter_volunteers
+
+storage:
+  content: ./content/
+  confidential: ./confidential/
+
+# `confidential/roster/tech_leads.csv` is a symlink to
+# `codehorts/fall-2026/rosters/tech_leads.csv` on institutional OneDrive.
+# Nine tech leads, seeded from teams.yaml. Authored from here on.
+rosters:
+  - path: confidential/roster/tech_leads.csv
+    default_role: tech_lead
+
+# Copied from the capstone so a window means the same fortnight in both
+# courses. The two must agree or the same sprint would carry two date ranges.
+cadence:
+  - number: 0
+    name: Sprint Zero
+    starts: "2026-08-19"
+    ends: "2026-08-31"
+    decay_rate: 0.1
+  - number: 1
+    starts: "2026-08-31"
+    ends: "2026-09-14"
+    decay_rate: 0.1
+  - number: 2
+    starts: "2026-09-14"
+    ends: "2026-09-28"
+    decay_rate: 0.1
+  - number: 3
+    starts: "2026-09-28"
+    ends: "2026-10-12"
+    decay_rate: 0.1
+  - number: 4
+    starts: "2026-10-12"
+    ends: "2026-10-26"
+    decay_rate: 0.1
+  - number: 5
+    starts: "2026-10-26"
+    ends: "2026-11-09"
+    decay_rate: 0.1
+  - number: 6
+    starts: "2026-11-09"
+    ends: "2026-11-23"
+    decay_rate: 0.1
+  - number: 7
+    name: Launch
+    starts: "2026-11-23"
+    ends: "2026-12-07"
+    decay_rate: 0.1
+
+# No `roles_baselines`. The course states the tech lead minimum as an
+# obligation rather than a count -- content/sprint_structure_expectations.md:
+# "Acknowledge PRs within 24 hours, complete reviews within 48 hours".
+# There is no number of reviews anywhere, so declaring one would flag tech
+# leads against a figure nobody in the course wrote down. The built-in
+# defaults apply and are visible in the run header.
+#
+# Promptness is the measure that would actually match the course, and
+# nothing collects it. #140 and #141 are the nearest work.
+feedback: {}
+
+# Teams, so a tech lead's engagement can be read beside the team they are
+# accountable for. Same bindings as the capstone.
+teams:
+  - name: dev-sec-ops
+    code: dev-sec-ops
+    repositories:
+      - oss_cicd_automation
+      - oss_cybersecurity
+      - oss_infra_ops
+      - k8s-dev-cluster
+      - k8s-manifests
+  - name: analytics
+    code: analytics
+    repositories:
+      - oss_dev_analytics
+      - oss-orb
+      - enroll-dash
+      - repoexplorer
+  - name: software_for_higher_ed
+    code: software_for_higher_ed
+    repositories:
+      - core_desk
+      - GradEval360
+      - TULIP
+  - name: simulations
+    code: simulations
+    repositories:
+      - mechatronics-vr
+      - pao_surgery_simulator
+  - name: digital_public_goods
+    code: digital_public_goods
+    repositories:
+      - lrda_website
+      - lrda_mobile
+      - LRDA_Documentation
+      - material-derailleur
+      - shelter_volunteers
+  - name: health_wellness
+    code: health_wellness
+    repositories:
+      - DigitalBoneBox
+      - SpeechTranscription
+      - TheHealthApp
+  - name: mithridat
+    code: mithridat
+    repositories:
+      - mithridatium
+  - name: raise
+    code: raise
+    repositories:
+      - cv_zebrafish
+      - PilotDataSynchronization
+  - name: rse
+    code: rse
+    repositories:
+      - rerum_server_nodejs
+      - rerum-playground
+      - dads
+      - hpc_rag_agent_chatbot
+  - name: cs_research
+    code: cs_research
+    repositories: []
+
+# Sprint close assignments. The tech lead close is submission_types: none --
+# a checkpoint marker with no artifact -- so there is nothing for
+# `feedback demos` to collect here. Recorded for the fetch path and for
+# iteration-to-assignment resolution.
+checkpoints: []
