@@ -68,3 +68,10 @@ tmp/
 # Rosters
 roster-*.csv
 rosters/
+
+# Confidential storage tier: rosters, fetched submissions, feedback,
+# evaluations. Declared as `storage.confidential` in activity.yaml, so
+# `mostidy course feedback` writes FERPA-protected student work here.
+#
+# This repository is PUBLIC. Nothing in this directory may ever be committed.
+confidential/
