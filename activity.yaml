@@ -195,3 +195,68 @@ teams:
 # `feedback demos` to collect here. Recorded for the fetch path and for
 # iteration-to-assignment resolution.
 checkpoints: []
+
+# What each role is evaluated against.
+#
+# Four components come from the Tech Lead Evaluation Rubric in
+# `assignments/reflect-performance_evaluation_1.md`; the fifth is
+# `assignments/demonstrate_professional_leadership.md`, whose own heading is
+# "Leadership Capacity Building".
+#
+# **The weights here are not the four numbers in that rubric file.** It states
+# 35/35/15/15, and those are percentages of its own 90-point core evaluation --
+# its parenthetical point figures say so: "35% (31.5 points)". Leadership
+# Capacity Building carries the remaining 10 points separately. Against a
+# 100-point grade that is 31.5/31.5/13.5/13.5/10, which is what these are.
+#
+# Writing 35/35/15/15 here would overweight the first two components by 3.5
+# points each and leave the set summing to 1.10. An earlier hardcoded fallback
+# in MosTidy wrote 30/30/15/15/10, which summed correctly and was wrong by 1.5
+# points on each of the first two.
+#
+# Weights, not a scoring scheme. The rubric's stated method is instructor
+# observation across communications, codebase, peer feedback, client input and
+# project artifacts, with the focus on growth trajectory. Nothing multiplies
+# these.
+rubrics:
+  tech_lead:
+    stretch_category: leadership_capacity_building
+    categories:
+      - id: managing_team_dynamics
+        name: Managing Team Dynamics
+        weight: 0.315
+        description: >-
+          The "Lead" in Tech Lead, evaluated through all team communications:
+          open communication, collaborative development, client relationships,
+          retrospectives, inclusive culture, conflict resolution.
+      - id: software_engineering_quality
+        name: Software Engineering Quality
+        weight: 0.315
+        description: >-
+          The "Tech" in Tech Lead, evaluated through codebase review: modular
+          architecture, maintainability, testing practices, code review culture,
+          CI/CD, technical decision documentation. On a legacy codebase, judged
+          on the strategy for raising quality over time.
+      - id: product_project_management
+        name: Product and Project Management
+        weight: 0.135
+        description: >-
+          A coherent product vision legible to client, developers and
+          contributors: vision articulation, continuous discovery, project
+          management tooling, checkpoint and handoff documentation, iteration
+          planning, product pitching.
+      - id: implementing_open_source_practices
+        name: Implementing Open Source Practices
+        weight: 0.135
+        description: >-
+          De-facto maintainer of an open source product. Baseline expectations
+          are directly accountable: OSI license compliance, essential
+          documentation, community governance, maintainer responsiveness.
+      - id: leadership_capacity_building
+        name: Leadership Capacity Building
+        weight: 0.10
+        description: >-
+          Two leadership activities beyond primary team responsibilities,
+          publicly visible: external contributions, publications, conferences,
+          or cross-team knowledge sharing. Required for A-level performance and
+          evaluated on ambition as much as outcome.
