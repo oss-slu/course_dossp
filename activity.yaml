@@ -229,6 +229,10 @@ rubrics:
           The "Lead" in Tech Lead, evaluated through all team communications:
           open communication, collaborative development, client relationships,
           retrospectives, inclusive culture, conflict resolution.
+        # The four leadership deliverables, plus how much of the team's work
+        # this lead actually reviewed. Slack, meetings and peer feedback are
+        # absent, so most of this 31.5% still rests on observation.
+        evidence: [deliverables, activity]
       - id: software_engineering_quality
         name: Software Engineering Quality
         weight: 0.315
@@ -237,6 +241,9 @@ rubrics:
           architecture, maintainability, testing practices, code review culture,
           CI/CD, technical decision documentation. On a legacy codebase, judged
           on the strategy for raising quality over time.
+        # Their own contribution, and the quality gate on the repositories
+        # they accept code into -- which is where the rubric locates this.
+        evidence: [activity, practice]
       - id: product_project_management
         name: Product and Project Management
         weight: 0.135
@@ -245,6 +252,9 @@ rubrics:
           contributors: vision articulation, continuous discovery, project
           management tooling, checkpoint and handoff documentation, iteration
           planning, product pitching.
+        # The six checkpoint and planning documents. Submission state says a
+        # document arrived and nothing about whether it is any good.
+        evidence: [deliverables]
       - id: implementing_open_source_practices
         name: Implementing Open Source Practices
         weight: 0.135
@@ -252,6 +262,10 @@ rubrics:
           De-facto maintainer of an open source product. Baseline expectations
           are directly accountable: OSI license compliance, essential
           documentation, community governance, maintainer responsiveness.
+        # The one component where a repository check *is* the evidence rather
+        # than a proxy: the rubric makes the baseline the lead's direct
+        # accountability.
+        evidence: [practice]
       - id: leadership_capacity_building
         name: Leadership Capacity Building
         weight: 0.10
@@ -261,6 +275,10 @@ rubrics:
           or cross-team knowledge sharing. Required for A-level performance and
           evaluated on ambition as much as outcome.
 
+        # Deliberately empty. `demonstrate_professional_leadership` is due
+        # 2026-12-04, after this window, so there is nothing to read yet and
+        # the document should say so rather than imply an absence.
+        evidence: []
 # Assignments the midterm evaluation reads submission states from.
 #
 # Not the same as `checkpoints`, which is iteration-keyed: a checkpoint is the
