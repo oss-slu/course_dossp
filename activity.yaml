@@ -260,3 +260,59 @@ rubrics:
           publicly visible: external contributions, publications, conferences,
           or cross-team knowledge sharing. Required for A-level performance and
           evaluated on ambition as much as outcome.
+
+# Assignments the midterm evaluation reads submission states from.
+#
+# Not the same as `checkpoints`, which is iteration-keyed: a checkpoint is the
+# assignment an iteration closes with, and this course's Sprint Closes accept no
+# submission at all. These eleven are what a tech lead is actually asked to hand
+# in on or before the sprint-3 close (2026-10-12), which is the midterm's
+# evidence horizon.
+#
+# Performance Evaluation 1 (784291) is deliberately absent: it is the instrument,
+# not evidence. So are the three Sprint Closes, which would otherwise show all
+# nine leads missing three deliverables each -- a deficiency that does not
+# exist. The collector would exclude them anyway and record why; declaring them
+# here would just make it do that work.
+#
+# `component` binds a deliverable to the rubric component it speaks to, and is
+# validated against the rubric at load. Several have none, which is normal.
+deliverables:
+  # Managing Team Dynamics — all four are about how the team is led
+  - assignment_id: 784279   # Checkpoint 1 - Working Agreements
+    component: managing_team_dynamics
+    role: tech_lead
+  - assignment_id: 784306   # Checkpoint 2 - Team Outing
+    component: managing_team_dynamics
+    role: tech_lead
+  - assignment_id: 784300   # Client Demo & Feedback 1
+    component: managing_team_dynamics
+    role: tech_lead
+  - assignment_id: 784290   # Retrospective Facilitation
+    component: managing_team_dynamics
+    role: tech_lead
+
+  # Product and Project Management — vision, planning and checkpoint documents
+  - assignment_id: 784277   # Milestone 1
+    component: product_project_management
+    role: tech_lead
+  - assignment_id: 784285   # Team OKRs
+    component: product_project_management
+    role: tech_lead
+  - assignment_id: 784293   # Iteration Starters
+    component: product_project_management
+    role: tech_lead
+  - assignment_id: 784283   # Team Metrics Report 1
+    component: product_project_management
+    role: tech_lead
+  - assignment_id: 784280   # Checkpoint Artifact - Choice 1
+    component: product_project_management
+    role: tech_lead
+  - assignment_id: 784305   # Milestone 2
+    component: product_project_management
+    role: tech_lead
+
+  # Unbound. Onboarding administration rather than evidence for a component --
+  # it is what closed the commit-attribution gap, not something a lead is
+  # assessed on.
+  - assignment_id: 803403   # Onboarding: Commit Identity
