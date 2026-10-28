@@ -69,13 +69,22 @@ providers:
 
 storage:
   content: ./content/
-  confidential: ./confidential/
+  # `{term}` is substituted from `activity.term` and slugified, so this resolves
+  # to ./confidential/fall-2026/. Term rollover is then a new directory rather
+  # than a symlink somebody has to remember to re-point, and last term's data
+  # stays reachable instead of being orphaned.
+  #
+  # Beneath it: `evidence/` for collected facts, `feedback/` for formative
+  # artifacts, `evaluation/` for summative ones. The last is a symlink to
+  # institutional OneDrive, because an evaluation document is half written
+  # judgement and nothing can rebuild that half.
+  confidential: ./confidential/{term}/
 
 # `confidential/roster/tech_leads.csv` is a symlink to
 # `codehorts/fall-2026/rosters/tech_leads.csv` on institutional OneDrive.
 # Nine tech leads, seeded from teams.yaml. Authored from here on.
 rosters:
-  - path: confidential/roster/tech_leads.csv
+  - path: confidential/{term}/roster/tech_leads.csv
     default_role: tech_lead
 
 # Copied from the capstone so a window means the same fortnight in both
