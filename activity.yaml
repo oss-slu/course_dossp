@@ -25,6 +25,14 @@ roles:
     permissions: {lms: read, vcs: write, chat: write, projects: write}
 
 providers:
+  # The Slack workspace, verified against conversations.list on 2026-10-28.
+  # Needed for a channel link: `app_redirect` without `team` opens the channel
+  # in whichever workspace the reader last had focused, so the same document
+  # behaves differently for two readers.
+  chat:
+    type: slack
+    workspace: T03ND1N37T5
+
   # Verified against Canvas: 97306 is the Fall 2026 SPEL section.
   lms:
     type: canvas
