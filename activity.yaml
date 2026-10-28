@@ -334,3 +334,11 @@ deliverables:
   # it is what closed the commit-attribution gap, not something a lead is
   # assessed on.
   - assignment_id: 803403   # Onboarding: Commit Identity
+
+# Where a finished evaluation is posted, per role.
+#
+# 784291 is Performance Evaluation 1 (90 points, due 2026-10-09) -- the midterm
+# instrument itself, which is why it is deliberately absent from `deliverables`
+# above: it is where the evaluation goes, not evidence that feeds it.
+evaluations:
+  tech_lead: 784291
